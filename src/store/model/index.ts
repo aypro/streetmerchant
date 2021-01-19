@@ -42,6 +42,7 @@ import {Centrecom} from './centrecom';
 import {Comet} from './comet';
 import {ComputerAlliance} from './computeralliance';
 import {Computeruniverse} from './computeruniverse';
+import {Conrad} from './conrad';
 import {Coolblue} from './coolblue';
 import {Coolmod} from './coolmod';
 import {Corsair} from './corsair';
@@ -50,6 +51,7 @@ import {Cpl} from './cpl';
 import {Currys} from './currys';
 import {Cyberport} from './cyberport';
 import {Dcomp} from './dcomp';
+import {Digitec} from './digitec';
 import {Drako} from './drako';
 import {EbGames} from './ebgames';
 import {Ebuyer} from './ebuyer';
@@ -93,6 +95,7 @@ import {Nvidia} from './nvidia';
 import {NvidiaApi} from './nvidia-api';
 import {OfficeDepot} from './officedepot';
 import {Ollo} from './ollo';
+import {Onlyshop} from './onlyshop';
 import {Otto} from './otto';
 import {Overclockers} from './overclockers';
 import {PBTech} from './pbtech';
@@ -102,6 +105,7 @@ import {PCKing} from './pcking';
 import {Pccg} from './pccg';
 import {PlayStation} from './playstation';
 import {Pny} from './pny';
+import {Prodimex} from './prodimex';
 import {ProshopDE} from './proshop-de';
 import {ProshopDK} from './proshop-dk';
 import {Rosman} from './rosman';
@@ -114,6 +118,7 @@ import {ShopTo} from './shopto';
 import {SmythsToys} from './smythstoys';
 import {SmythsToysIE} from './smythstoys-ie';
 import {Spielegrotte} from './spielegrotte';
+import {Steg} from './steg';
 import {Store} from './store';
 import {StormComputers} from './storm';
 import {Target} from './target';
@@ -177,6 +182,7 @@ export const storeList = new Map([
   [Comet.name, Comet],
   [ComputerAlliance.name, ComputerAlliance],
   [Computeruniverse.name, Computeruniverse],
+  [Conrad.name, Conrad],  
   [Coolblue.name, Coolblue],
   [Coolmod.name, Coolmod],
   [Corsair.name, Corsair],
@@ -185,6 +191,7 @@ export const storeList = new Map([
   [Currys.name, Currys],
   [Cyberport.name, Cyberport],
   [Dcomp.name, Dcomp],
+  [Digitec.name, Digitec],
   [Drako.name, Drako],
   [EbGames.name, EbGames],
   [Ebuyer.name, Ebuyer],
@@ -229,6 +236,7 @@ export const storeList = new Map([
   [OfficeDepot.name, OfficeDepot],
   [Ollo.name, Ollo],
   [Otto.name, Otto],
+  [Onlyshop.name, Onlyshop],
   [Overclockers.name, Overclockers],
   [PBTech.name, PBTech],
   [PCByte.name, PCByte],
@@ -237,6 +245,7 @@ export const storeList = new Map([
   [PCComponentes.name, PCComponentes],
   [PlayStation.name, PlayStation],
   [Pny.name, Pny],
+  [Prodimex.name, Prodimex],  
   [ProshopDE.name, ProshopDE],
   [ProshopDK.name, ProshopDK],
   [Rosman.name, Rosman],
@@ -249,6 +258,7 @@ export const storeList = new Map([
   [SmythsToysIE.name, SmythsToysIE],
   [SmythsToys.name, SmythsToys],
   [Spielegrotte.name, Spielegrotte],
+  [Steg.name, Steg],
   [StormComputers.name, StormComputers],
   [Target.name, Target],
   [TescoIE.name, TescoIE],
