@@ -172,7 +172,13 @@ export const Digitec: Store = {
 			model: 'ftw3 ultra',
 			series: '3080',
             url: 'https://www.digitec.ch/en/s1/product/13752263'
-        }                                                                                                
+		},      
+		{
+			brand: 'zotac',
+			model: 'twin edge',
+			series: '3070',
+            url: 'https://www.digitec.ch/en/s1/product/13752196'
+		}                                                                                          
 	],
 	name: 'digitec'
 };
