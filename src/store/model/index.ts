@@ -42,7 +42,6 @@ import {Centrecom} from './centrecom';
 import {Comet} from './comet';
 import {ComputerAlliance} from './computeralliance';
 import {Computeruniverse} from './computeruniverse';
-import {Conrad} from './conrad';
 import {Coolblue} from './coolblue';
 import {Coolmod} from './coolmod';
 import {Corsair} from './corsair';
@@ -182,7 +181,6 @@ export const storeList = new Map([
   [Comet.name, Comet],
   [ComputerAlliance.name, ComputerAlliance],
   [Computeruniverse.name, Computeruniverse],
-  [Conrad.name, Conrad],  
   [Coolblue.name, Coolblue],
   [Coolmod.name, Coolmod],
   [Corsair.name, Corsair],
