@@ -184,7 +184,13 @@ export const Digitec: Store = {
 			model: 'twin edge oc',
 			series: '3070',
             url: 'https://www.digitec.ch/en/s1/product/13913888'
-		}                                                                                             
+		},      
+		{
+			brand: 'asus',
+			model: 'dual',
+			series: '3070',
+            url: 'https://www.digitec.ch/en/s1/product/13798669'
+		}                                                                                               
 	],
 	name: 'digitec'
 };
