@@ -81,6 +81,7 @@ import {Mediamarkt} from './mediamarkt';
 import {Mediamarkt_ch} from './mediamarkt_ch';
 import {Medimax} from './medimax';
 import {Megekko} from './megekko';
+import {Melectronics} from './melectronics';
 import {MemoryExpress} from './memoryexpress';
 import {MicroCenter} from './microcenter';
 import {Mindfactory} from './mindfactory';
@@ -221,6 +222,7 @@ export const storeList = new Map([
   [Mediamarkt_ch.name, Mediamarkt_ch],  
   [Medimax.name, Medimax],
   [Megekko.name, Megekko],
+  [Melectronics.name, Melectronics],  
   [MemoryExpress.name, MemoryExpress],
   [MicroCenter.name, MicroCenter],
   [Mindfactory.name, Mindfactory],
