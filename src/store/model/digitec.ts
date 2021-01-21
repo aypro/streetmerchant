@@ -3,10 +3,6 @@ import {Store} from './store';
 export const Digitec: Store = {
 	currency: '$',
 	labels: {
-		inStock: {
-			container: '.availabilityText',
-			text: ['Delivered']
-		},
 		maxPrice: {
 			container: '.productDetail .Z1ej',
 			euroFormat: false
