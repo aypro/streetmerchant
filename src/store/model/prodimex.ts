@@ -10,6 +10,12 @@ export const Prodimex: Store = {
 	},
 	links: [   
 		{
+			brand: 'amd',
+			model: '5600x',
+			series: 'ryzen5600',
+			url: 'https://www.prodimex.ch/-121628.html'
+		}, 		
+		{
 			brand: 'gigabyte',
 			model: 'aorus master',
 			series: '3080',

@@ -14,6 +14,18 @@ export const Onlyshop: Store = {
 	},
 	links: [  
 		{
+			brand: 'amd',
+			model: '5600x',
+			series: 'ryzen5600',
+            url: 'https://www.onlyshop.ch/en/products/1057363-100-100000065box-amd-cpu-ryzen-5-5600x-37-ghz'
+        }, 			
+		{
+			brand: 'amd',
+			model: '5600x',
+			series: 'ryzen5600',
+            url: 'https://www.onlyshop.ch/en/products/1077971-100-000000065-amd-ryzen-5-5600x-without-cooler'
+        },  		
+		{
 			brand: 'palit',
 			model: 'gaming pro oc',
             series: '3080',

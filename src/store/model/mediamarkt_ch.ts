@@ -10,6 +10,18 @@ export const Mediamarkt_ch: Store = {
 	},
 	links: [
 		{
+			brand: 'amd',
+			model: '5600x',
+			series: 'ryzen5600',
+			url: 'https://www.mediamarkt.ch/fr/product/_amd-ryzen-5-5600x-tray-2038895.html'
+		},  	
+		{
+			brand: 'amd',
+			model: '5600x',
+			series: 'ryzen5600',
+			url: 'https://www.mediamarkt.ch/fr/product/_amd-ryzen-5-5600x-2038896.html'
+		},  
+		{
 			brand: 'gigabyte',
 			model: 'eagle',
 			series: '3080',
