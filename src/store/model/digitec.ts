@@ -4,7 +4,7 @@ export const Digitec: Store = {
 	currency: '$',
 	labels: {
 		maxPrice: {
-			container: '.productDetail .Z1ej',
+			container: '#pageContent > div > div.Z1eq.ZZZ2 > div > div.Z1es > div > div.Z1e7 > strong',
 			euroFormat: false
         },
 		outOfStock:	{
@@ -17,7 +17,7 @@ export const Digitec: Store = {
 			brand: 'amd',
 			model: '5600x',
 			series: 'ryzen5600',
-            url: 'https://www.digitec.ch/en/s1/product/13987919'
+            url: 'https://www.digitec.ch/en/s1/product/amd-ryzen-5-5600x-am4-370ghz-6-core-processors-13987919?supplier=406802'
         },          
 		{
 			brand: 'gigabyte',
