@@ -7,10 +7,16 @@ export const Steg: Store = {
 			container: '.generalPrice .sm-flex-item',
 			euroFormat: false
         },
-		outOfStock:	{
-            container: '.availabilityInfo',
-            text: ['Expédition en 4 à 6 semaines']
-        }   
+		outOfStock:[
+			{
+				container: '.availabilityInfo',
+				text: ['Expédition en 4 à 6 semaines']
+			},
+			{
+				container: '#notification > h3',
+				text: ['Nous ne pouvons']
+			}		   
+		]
 	},
 	links: [
 		{
