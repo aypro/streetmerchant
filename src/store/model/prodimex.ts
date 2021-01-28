@@ -1,7 +1,7 @@
 import {Store} from './store';
 
 export const Prodimex: Store = {
-	currency: '$',
+	currency: 'CHF',
 	labels: {
 		inStock:	{
             container: 'div.thumb-product-stock > img',

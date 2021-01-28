@@ -1,7 +1,7 @@
 import {Store} from './store';
 
 export const Mediamarkt_ch: Store = {
-	currency: '$',
+	currency: 'CHF',
 	labels: {
 		inStock:	{
             container: '#product-details > div.price-sidebar > div.price-details > div.box.infobox.availability > ul > li.false > font',

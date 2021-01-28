@@ -1,7 +1,7 @@
 import {Store} from './store';
 
 export const Onlyshop: Store = {
-	currency: '$',
+	currency: 'CHF',
 	labels: { 
 		maxPrice: {
 			container: '#product-price > span > span > span > span.first_price > span.price',

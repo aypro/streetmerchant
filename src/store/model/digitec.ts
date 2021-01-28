@@ -1,7 +1,7 @@
 import {Store} from './store';
 
 export const Digitec: Store = {
-	currency: '$',
+	currency: 'CHF',
 	labels: {
 		maxPrice: {
 			container: '#pageContent > div > div.Z1eq.ZZZ2 > div > div.Z1es > div > div.Z1e7 > strong',

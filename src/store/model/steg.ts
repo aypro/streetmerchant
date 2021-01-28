@@ -1,7 +1,7 @@
 import {Store} from './store';
 
 export const Steg: Store = {
-	currency: '$',
+	currency: 'CHF',
 	labels: {
 		maxPrice: {
 			container: '.generalPrice .sm-flex-item',
