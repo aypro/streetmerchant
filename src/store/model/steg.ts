@@ -240,7 +240,13 @@ export const Steg: Store = {
 			model: 'aorus master',
 			series: '3080',
             url: 'https://www.steg-electronics.ch/fr/product/gigabyte-aorus-geforce-rtx-3080-master-10g-rev-2-0-27960562'
-		} 		
+		} 	
+		,{
+			brand: 'asus',
+			model: 'strix oc white',
+			series: '3080',
+            url: 'https://www.steg-electronics.ch/fr/product/asus-geforce-rog-strix-rtx-3080-gaming-oc-white-edition-10gb-27937791'
+		} 					
 	],
 	name: 'steg'
 };
