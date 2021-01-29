@@ -17,49 +17,49 @@ export const Onlyshop: Store = {
 			brand: 'amd',
 			model: '5600x',
 			series: 'ryzen5600',
-            url: 'https://www.onlyshop.ch/en/products/1057363-100-100000065box-amd-cpu-ryzen-5-5600x-37-ghz'
+            url: 'https://www.onlyshop.ch/en/products/1057363'
         }, 			
 		{
 			brand: 'amd',
 			model: '5600x',
 			series: 'ryzen5600',
-            url: 'https://www.onlyshop.ch/en/products/1077971-100-000000065-amd-ryzen-5-5600x-without-cooler'
+            url: 'https://www.onlyshop.ch/en/products/1077971'
         },  		
 		{
 			brand: 'palit',
 			model: 'gaming pro oc',
             series: '3080',
-            url: 'https://www.onlyshop.ch/en/products/1009659-ned3080s19ia-132aa-palit-grafikkarte-geforce'
+            url: 'https://www.onlyshop.ch/en/products/1009659'
         },
 		{
 			brand: 'asus',
 			model: 'tuf',
             series: '3080',
-            url: 'https://www.onlyshop.ch/en/products/1009301-90yv0fb1-m0nm00-asus-grafikkarte-tuf-geforce'
+            url: 'https://www.onlyshop.ch/en/products/1009301'
         },
 		{
 			brand: 'asus',
 			model: 'tuf',
             series: '3080',
-            url: 'https://www.onlyshop.ch/en/products/1009299-90yv0fb0-m0nm00-asus-grafikkarte-tuf-geforce'
+            url: 'https://www.onlyshop.ch/en/products/1009299'
         },
 		{
 			brand: 'gigabyte',
 			model: 'eagle oc',
             series: '3080',
-            url: 'https://www.onlyshop.ch/en/products/1010209-0000000neu2288-neu'
+            url: 'https://www.onlyshop.ch/en/products/1010209'
         },
 		{
 			brand: 'msi',
 			model: 'gaming x trio',
             series: '3080',
-            url: 'https://www.onlyshop.ch/en/products/1010213-0000000neu8096-neu'
+            url: 'https://www.onlyshop.ch/en/products/1010213'
         },
 		{
 			brand: 'msi',
 			model: 'ventus 3x oc',
             series: '3080',
-            url: 'https://www.onlyshop.ch/en/products/1010215-0000000neu3222-neu'
+            url: 'https://www.onlyshop.ch/en/products/1010215'
         }                                                                                                                                                                                                                                                                                                                                                                                                                    
 	],
 	name: 'onlyshop'
