@@ -234,7 +234,13 @@ export const Steg: Store = {
 			model: 'aorus xtreme waterforce wb',
 			series: '3080',
             url: 'https://www.steg-electronics.ch/fr/product/gigabyte-aorus-geforce-rtx-3080-xtreme-waterforce-wb-10g-27814346'
-        }                                                                                                                                                                                                                                                                                                                                                                                                
+		}   
+		,{
+			brand: 'gigabyte',
+			model: 'aorus master',
+			series: '3080',
+            url: 'https://www.steg-electronics.ch/fr/product/gigabyte-aorus-geforce-rtx-3080-master-10g-rev-2-0-27960562'
+		} 		
 	],
 	name: 'steg'
 };
