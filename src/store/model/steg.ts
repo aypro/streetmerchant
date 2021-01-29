@@ -5,9 +5,13 @@ export const Steg: Store = {
 	labels: {
 		maxPrice: {
 			container: '.generalPrice .sm-flex-item',
-			euroFormat: false
+			euroFormat: true
         },
 		outOfStock:[
+			{
+				container: '.availabilityInfo',
+				text: ['Malheureusement']
+			},			
 			{
 				container: '.availabilityInfo',
 				text: ['Expédition en 4 à 6 semaines']
