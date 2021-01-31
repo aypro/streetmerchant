@@ -25,12 +25,12 @@ export const Onlyshop: Store = {
 			series: 'ryzen5600',
             url: 'https://www.onlyshop.ch/en/products/1077971'
         },  		
-		{
+/*		{
 			brand: 'palit',
 			model: 'gaming pro oc',
             series: '3080',
             url: 'https://www.onlyshop.ch/en/products/1009659'
-        },
+        },*/
 		{
 			brand: 'asus',
 			model: 'tuf',
