@@ -18,7 +18,19 @@ export const Digitec: Store = {
 			model: '5600x',
 			series: 'ryzen5600',
             url: 'https://www.digitec.ch/en/s1/product/amd-ryzen-5-5600x-am4-370ghz-6-core-processors-13987919?supplier=406802'
-        },          
+		}, 
+		{
+			brand: 'sony',
+			model: 'ps5 digital',
+			series: 'sonyps5de',
+            url: 'https://www.digitec.ch/en/s1/product/13329224'
+		},
+		{
+			brand: 'sony',
+			model: 'ps5 console',
+			series: 'sonyps5c',
+            url: 'https://www.digitec.ch/en/s1/product/12664145'
+        },				         
 		{
 			brand: 'gigabyte',
 			model: 'eagle',

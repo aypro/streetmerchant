@@ -9,6 +9,19 @@ export const Melectronics: Store = {
         }   
 	},
 	links: [
+		//PS5
+		{
+			brand: 'sony',
+			model: 'ps5 digital',
+			series: 'sonyps5de',
+            url: 'https://www.melectronics.ch/fr/p/785445800000/sony-playstation-5-digital-edition'
+		},
+		{
+			brand: 'sony',
+			model: 'ps5 console',
+			series: 'sonyps5c',
+            url: 'https://www.melectronics.ch/fr/p/785445700000/sony-playstation-5'
+        },				
         //3080
 		{
 			brand: 'asus',

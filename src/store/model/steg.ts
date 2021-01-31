@@ -24,6 +24,18 @@ export const Steg: Store = {
 	},
 	links: [
 		{
+			brand: 'sony',
+			model: 'ps5 digital',
+			series: 'sonyps5de',
+            url: 'https://www.steg-electronics.ch/fr/product/sony-playstation-5-digital-edition-blanc-ps5-d-f-i-e-27580952'
+		},		
+		{
+			brand: 'sony',
+			model: 'ps5 console',
+			series: 'sonyps5c',
+            url: 'https://www.steg-electronics.ch/fr/product/sony-playstation-5-weiss-ps5-d-f-i-e-27580931'
+        },		
+		{
 			brand: 'amd',
 			model: '5600x',
 			series: 'ryzen5600',
