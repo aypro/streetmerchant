@@ -60,7 +60,37 @@ export const Onlyshop: Store = {
 			model: 'ventus 3x oc',
             series: '3080',
             url: 'https://www.onlyshop.ch/en/products/1010215'
-        }                                                                                                                                                                                                                                                                                                                                                                                                                    
+		},   
+		{
+			brand: 'asus',
+			model: 'tuf',
+            series: '3080',
+            url: 'https://www.onlyshop.ch/en/products/1009299'
+		},   
+		{
+			brand: 'asus',
+			model: 'tuf oc',
+            series: '3080',
+            url: 'https://www.onlyshop.ch/en/products/1009301'
+        },   
+		{
+			brand: 'asus',
+			model: 'strix white',
+            series: '3080',
+            url: 'https://www.onlyshop.ch/en/products/1117793'
+        },   
+		{
+			brand: 'asus',
+			model: 'strix oc',
+            series: '3080',
+            url: 'https://www.onlyshop.ch/en/products/1009297'
+        },   
+		{
+			brand: 'asus',
+			model: 'strix',
+            series: '3080',
+            url: 'https://www.onlyshop.ch/en/products/1009295'
+        } 	 	 	 				                                                                                                                                                                                                                                                                                                                                                                                                                 
 	],
 	name: 'onlyshop'
 };
