@@ -3,10 +3,16 @@ import {Store} from './store';
 export const Melectronics: Store = {
 	currency: 'CHF',
 	labels: {
-		outOfStock:	{
-            container: '#app > div > div > main > div > div:nth-child(1) > div > div.p-product-detail--item__aside.col-sm-4 > div.p-product-detail--row__buybox > div > div > div.buybox--order.buybox--order__is-disabled > div.buybox--annotation > span',
-            text: ['Actuellement non disponible dans la boutique en ligne']
-        }   
+		outOfStock:[
+			{
+				container: '#app > div > div > main > div > div:nth-child(1) > div > div.p-product-detail--item__aside.col-sm-4 > div.p-product-detail--row__buybox > div > div > div.buybox--order.buybox--order__is-disabled > div.buybox--annotation > span',
+				text: ['Actuellement non disponible dans la boutique en ligne']
+			},
+			{
+				container: '.errormessagebar--tx',
+				text: ['Ce produit']
+			}
+		]				
 	},
 	links: [
 		//PS5
