@@ -7,6 +7,10 @@ export const Digitec: Store = {
 			container: '#pageContent > div > div.Z1eq.ZZZ2 > div > div.Z1es > div > div.Z1e7 > strong',
 			euroFormat: false
         },
+		inStock:	{
+            container: '#secondHand',
+            text: ['Buy secondhand']
+        },  		
 		outOfStock:	{
             container: '.availabilityText',
             text: ['Currently out of stock and no delivery date available.']

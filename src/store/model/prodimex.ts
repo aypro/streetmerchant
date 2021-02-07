@@ -13,7 +13,8 @@ export const Prodimex: Store = {
 			brand: 'amd',
 			model: '5600x',
 			series: 'ryzen5600',
-			url: 'https://www.prodimex.ch/-121628.html'
+//			url: 'https://www.prodimex.ch/-121628.html'
+			url: 'https://www.prodimex.ch/-121629.html'
 		}, 		
 		{
 			brand: 'gigabyte',
