@@ -35,6 +35,13 @@ export const Digitec: Store = {
 			series: 'sonyps5c',
             url: 'https://www.digitec.ch/en/s1/product/12664145'
         },
+		//3070
+		{
+			brand: 'palit',
+			model: 'gaming pro',
+			series: '3070',
+            url: 'https://www.digitec.ch/en/s1/product/14036311'
+        }, 		
 		//3080				         
 		{
 			brand: 'gigabyte',
