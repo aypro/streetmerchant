@@ -3,26 +3,26 @@ import {Store} from './store';
 export const Digitec: Store = {
 	currency: 'CHF',
 	labels: {
-		maxPrice: {
-			container: '#pageContent > div > div.Z1eq.ZZZ2 > div > div.Z1es > div > div.Z1e7 > strong',
-			euroFormat: false
-        },
-		inStock:	{
-            container: '#secondHand',
-            text: ['Buy secondhand']
-        },  		
-		outOfStock:	{
-            container: '.availabilityText',
-            text: ['Currently out of stock and no delivery date available.']
-        }   
+		inStock:	[
+			{
+	            container: '#secondHand',
+            	text: ['Buy secondhand']
+        	},
+			{
+	            container: '.availabilityText',
+            	text: ['Delivered']
+        	}			
+		]
 	},
 	links: [
+		//5600x
 		{
 			brand: 'amd',
 			model: '5600x',
 			series: 'ryzen5600',
             url: 'https://www.digitec.ch/en/s1/product/amd-ryzen-5-5600x-am4-370ghz-6-core-processors-13987919?supplier=406802'
 		}, 
+		//PS5
 		{
 			brand: 'sony',
 			model: 'ps5 digital',
@@ -34,7 +34,8 @@ export const Digitec: Store = {
 			model: 'ps5 console',
 			series: 'sonyps5c',
             url: 'https://www.digitec.ch/en/s1/product/12664145'
-        },				         
+        },
+		//3080				         
 		{
 			brand: 'gigabyte',
 			model: 'eagle',
@@ -184,25 +185,7 @@ export const Digitec: Store = {
 			model: 'ftw3 ultra',
 			series: '3080',
             url: 'https://www.digitec.ch/en/s1/product/13752263'
-		},      
-		{
-			brand: 'zotac',
-			model: 'twin edge',
-			series: '3070',
-            url: 'https://www.digitec.ch/en/s1/product/13752196'
-		},      
-		{
-			brand: 'zotac',
-			model: 'twin edge oc',
-			series: '3070',
-            url: 'https://www.digitec.ch/en/s1/product/13913888'
-		},      
-		{
-			brand: 'asus',
-			model: 'dual',
-			series: '3070',
-            url: 'https://www.digitec.ch/en/s1/product/13798669'
-		}                                                                                               
+		}                                                                                           
 	],
 	name: 'digitec'
 };
