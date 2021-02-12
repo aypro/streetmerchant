@@ -47,6 +47,8 @@ export type Series =
   | 'rx6800'
   | 'rx6800xt'
   | 'rx6900xt'
+  | 'ryzen3200g'
+  | 'ryzen3400g'  
   | 'ryzen5600'
   | 'ryzen5800'
   | 'ryzen5900'
@@ -60,6 +62,8 @@ export type Series =
 export type Model =
   | 'test:model'
   | 'captcha-deterrent'
+  | '3200g'
+  | '3400g'
   | '5600x'
   | '5800x'
   | '5900x'

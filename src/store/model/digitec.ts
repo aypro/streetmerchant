@@ -15,6 +15,19 @@ export const Digitec: Store = {
 		]
 	},
 	links: [
+		//3200g,3400g
+		{
+			brand: 'amd',
+			model: '3200g',
+			series: 'ryzen3200g',
+            url: 'https://www.digitec.ch/en/s1/product/11239815'
+        },
+		{
+			brand: 'amd',
+			model: '3400g',
+			series: 'ryzen3400g',
+            url: 'https://www.digitec.ch/en/s1/product/11239818'
+        }, 		
 		//3070
 		{
 			brand: 'asus',
