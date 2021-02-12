@@ -15,6 +15,30 @@ export const Onlyshop: Store = {
 	links: [  
 		{
 			brand: 'amd',
+			model: '3200g',
+			series: 'ryzen3200g',
+            url: 'https://www.onlyshop.ch/en/products/284587'
+        }, 			
+		{
+			brand: 'amd',
+			model: '3200g',
+			series: 'ryzen3200g',
+            url: 'https://www.onlyshop.ch/en/products/772785'
+        }, 		
+		{
+			brand: 'amd',
+			model: '3400g',
+			series: 'ryzen3400g',
+            url: 'https://www.onlyshop.ch/en/products/284589'
+        }, 		
+		{
+			brand: 'amd',
+			model: '3400g',
+			series: 'ryzen3400g',
+            url: 'https://www.onlyshop.ch/en/products/1077977'
+        }, 					
+		{
+			brand: 'amd',
 			model: '5600x',
 			series: 'ryzen5600',
             url: 'https://www.onlyshop.ch/en/products/1057363'

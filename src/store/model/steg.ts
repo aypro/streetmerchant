@@ -24,6 +24,18 @@ export const Steg: Store = {
 	},
 	links: [
 		{
+			brand: 'amd',
+			model: '3400g',
+			series: 'ryzen3400g',
+            url: 'https://www.steg-electronics.ch/fr/product/amd-ryzen-5-3400g-4c-3-70ghz-4mb-boxed-25888520'
+		},		
+		{
+			brand: 'amd',
+			model: '3200g',
+			series: 'ryzen3200g',
+            url: 'https://www.steg-electronics.ch/fr/product/amd-ryzen-3-3200g-4c-3-60ghz-4-mb-boxed-25888513'
+		},				
+		{
 			brand: 'sony',
 			model: 'ps5 digital',
 			series: 'sonyps5de',

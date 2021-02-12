@@ -11,6 +11,18 @@ export const Prodimex: Store = {
 	links: [   
 		{
 			brand: 'amd',
+			model: '3200g',
+			series: 'ryzen3200g',
+			url: 'https://www.prodimex.ch/-113335.html'
+		}, 	
+		{
+			brand: 'amd',
+			model: '3400g',
+			series: 'ryzen3400g',
+			url: 'https://www.prodimex.ch/-113336.html'
+		}, 					
+		{
+			brand: 'amd',
 			model: '5600x',
 			series: 'ryzen5600',
 			url: 'https://www.prodimex.ch/-121628.html'

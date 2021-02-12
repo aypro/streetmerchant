@@ -11,6 +11,18 @@ export const Mediamarkt_ch: Store = {
 	links: [
 		{
 			brand: 'amd',
+			model: '3400g',
+			series: 'ryzen3400g',
+			url: 'https://www.mediamarkt.ch/fr/product/_amd-ryzen-5-3400g-1937100.html'
+		}, 	
+		{
+			brand: 'amd',
+			model: '3200g',
+			series: 'ryzen3200g',
+			url: 'https://www.mediamarkt.ch/fr/product/_amd-ryzen-3-3200g-1937099.html'
+		}, 				
+		{
+			brand: 'amd',
 			model: '5600x',
 			series: 'ryzen5600',
 			url: 'https://www.mediamarkt.ch/fr/product/_amd-ryzen-5-5600x-tray-2038895.html'
