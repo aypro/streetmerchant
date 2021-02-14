@@ -350,7 +350,109 @@ export const Digitec: Store = {
 			model: 'ftw3 ultra',
 			series: '3080',
             url: 'https://www.digitec.ch/en/s1/product/13752263'
-		}                                                                                           
+		},      
+		{
+			brand: 'asus',
+			model: 'tuf',
+			series: '3090',
+            url: 'https://www.digitec.ch/en/s1/product/13689186'
+		},      
+		{
+			brand: 'asus',
+			model: 'tuf oc',
+			series: '3090',
+            url: 'https://www.digitec.ch/en/s1/product/13751303'
+		},      
+		{
+			brand: 'asus',
+			model: 'strix',
+			series: '3090',
+            url: 'https://www.digitec.ch/en/s1/product/13689634'
+		},      
+		{
+			brand: 'asus',
+			model: 'strix',
+			series: '3090',
+            url: 'https://www.digitec.ch/en/s1/product/13751920'
+		},      
+		{
+			brand: 'evga',
+			model: 'xc3 black',
+			series: '3090',
+            url: 'https://www.digitec.ch/en/s1/product/13689630'
+		},      
+		{
+			brand: 'evga',
+			model: 'xc3 ultra',
+			series: '3090',
+            url: 'https://www.digitec.ch/en/s1/product/13689636'
+		},      
+		{
+			brand: 'evga',
+			model: 'xc3',
+			series: '3090',
+            url: 'https://www.digitec.ch/en/s1/product/13689631'
+		},      
+		{
+			brand: 'gainward',
+			model: 'phoenix gs',
+			series: '3090',
+            url: 'https://www.digitec.ch/en/s1/product/13785877'
+		},      
+		{
+			brand: 'gigabyte',
+			model: 'gaming oc',
+			series: '3090',
+            url: 'https://www.digitec.ch/en/s1/product/13689616'
+		},      
+		{
+			brand: 'gigabyte',
+			model: 'eagle oc',
+			series: '3090',
+            url: 'https://www.digitec.ch/en/s1/product/13689617'
+		},      
+		{
+			brand: 'gigabyte',
+			model: 'aorus xtreme',
+			series: '3090',
+            url: 'https://www.digitec.ch/en/s1/product/13689614'
+		},      
+		{
+			brand: 'gigabyte',
+			model: 'aorus master',
+			series: '3090',
+            url: 'https://www.digitec.ch/en/s1/product/13689615'
+		},      
+		{
+			brand: 'msi',
+			model: 'ventus 3x',
+			series: '3090',
+            url: 'https://www.digitec.ch/en/s1/product/13689635'
+		},      
+		{
+			brand: 'msi',
+			model: 'gaming x trio',
+			series: '3090',
+            url: 'https://www.digitec.ch/en/s1/product/13689637'
+		},      
+		{
+			brand: 'palit',
+			model: 'gaming pro',
+			series: '3090',
+            url: 'https://www.digitec.ch/en/s1/product/13785873'
+		},      
+		{
+			brand: 'palit',
+			model: 'gaming pro oc',
+			series: '3090',
+            url: 'https://www.digitec.ch/en/s1/product/13788119'
+		},      
+		{
+			brand: 'zotac',
+			model: 'trinity',
+			series: '3090',
+            url: 'https://www.digitec.ch/en/s1/product/13752152'
+		}                                                                                                                                           
 	],
 	name: 'digitec'
 };
