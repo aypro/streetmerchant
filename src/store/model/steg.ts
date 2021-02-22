@@ -274,6 +274,266 @@ export const Steg: Store = {
 			model: 'strix oc white',
 			series: '3080',
             url: 'https://www.steg-electronics.ch/fr/product/asus-geforce-rog-strix-rtx-3080-gaming-oc-white-edition-10gb-27937791'
+		} 		
+		//3070/super
+ 	
+		,{
+			brand: 'gigabyte',
+			model: 'gaming oc',
+			series: '3070',
+            url: 'https://www.steg-electronics.ch/fr/product/gigabyte-geforce-rtx-3070-gaming-oc-8gb-27725131'
+		} 
+		,{
+			brand: 'gigabyte',
+			model: 'vision oc',
+			series: '3070',
+            url: 'https://www.steg-electronics.ch/fr/product/gigabyte-geforce-rtx-3070-vision-oc-8g-27791085'
+		} 					
+		,{
+			brand: 'gigabyte',
+			model: 'aorus master',
+			series: '3070',
+            url: 'https://www.steg-electronics.ch/fr/product/gigabyte-aorus-geforce-rtx-3070-master-8g-27791071'
+		} 					
+		,{
+			brand: 'gigabyte',
+			model: 'eagle oc',
+			series: '3070',
+            url: 'https://www.steg-electronics.ch/fr/product/gigabyte-geforce-rtx-3070-eagle-oc-8gb-27698790'
+		} 					
+		,{
+			brand: 'asus',
+			model: 'tuf oc',
+			series: '3070',
+            url: 'https://www.steg-electronics.ch/fr/product/asus-tuf-rtx-3070-o8g-gaming-27714890'
+		} 					
+		,{
+			brand: 'zotac',
+			model: 'twin edge oc',
+			series: '3070',
+            url: 'https://www.steg-electronics.ch/fr/product/zotac-gaming-geforce-rtx-3070-twin-edge-oc-8gb-27728911'
+		} 					
+		,{
+			brand: 'asus',
+			model: 'dual',
+			series: '3070',
+            url: 'https://www.steg-electronics.ch/fr/product/asus-dual-rtx-3070-o8g-27722975'
+		} 					
+		,{
+			brand: 'zotac',
+			model: 'twin edge oc',
+			series: '3070',
+            url: 'https://www.steg-electronics.ch/fr/product/zotac-geforce-rtx-3070-twin-edge-oc-white-edition-8gb-27863395'
+		} 					
+		,{
+			brand: 'gainward',
+			model: 'phoenix gs',
+			series: '3070',
+            url: 'https://www.steg-electronics.ch/fr/product/gainward-geforce-rtx-3070-phoenix-gs-27759781'
+		} 					
+		,{
+			brand: 'asus',
+			model: 'strix oc',
+			series: '3070',
+            url: 'https://www.steg-electronics.ch/fr/product/asus-rog-strix-rtx-3070-o8g-gaming-27723003'
+		} 					
+		,{
+			brand: 'asus',
+			model: 'strix oc white',
+			series: '3070',
+            url: 'https://www.steg-electronics.ch/fr/product/asus-rog-strix-geforce-rtx-3070-gaming-oc-white-edition-8gb-27952183'
+		} 					
+		,{
+			brand: 'msi',
+			model: 'ventus 3x oc',
+			series: '3070',
+            url: 'https://www.steg-electronics.ch/fr/product/msi-geforce-rtx-3070-ventus-3x-oc-27730486'
+		} 					
+		,{
+			brand: 'gainward',
+			model: 'phoenix',
+			series: '3070',
+            url: 'https://www.steg-electronics.ch/fr/product/gainward-geforce-rtx-3070-phantom-8gb-27850816'
+		} 					
+		,{
+			brand: 'msi',
+			model: 'gaming x trio',
+			series: '3070',
+            url: 'https://www.steg-electronics.ch/fr/product/msi-geforce-rtx-3070-gaming-x-trio-27554408'
+		} 					
+		,{
+			brand: 'zotac',
+			model: 'amp holo',
+			series: '3070',
+            url: 'https://www.steg-electronics.ch/fr/product/zotac-rtx-3070-amp-holo-27962214'
+		} 					
+		,{
+			brand: 'asus',
+			model: 'tuf',
+			series: '3070',
+            url: 'https://www.steg-electronics.ch/fr/product/asus-geforce-tuf-rtx-3070-8gb-27731963'
+		} 					
+		,{
+			brand: 'msi',
+			model: 'ventus 2x',
+			series: '3070',
+            url: 'https://www.steg-electronics.ch/fr/product/msi-geforce-rtx-3070-ventus-2x-oc-27554436'
+		} 					
+		,{
+			brand: 'inno3d',
+			model: 'ichill x3',
+			series: '3070',
+            url: 'https://www.steg-electronics.ch/fr/product/inno3d-geforce-rtx-3070-ichill-x3-27768300'
+		} 					
+		,{
+			brand: 'zotac',
+			model: 'twin edge',
+			series: '3070',
+            url: 'https://www.steg-electronics.ch/fr/product/zotac-gaming-geforce-rtx-3070-twin-edge-8gb-27559630'
+		} 					
+		,{
+			brand: 'asus',
+			model: 'turbo',
+			series: '3070',
+            url: 'https://www.steg-electronics.ch/fr/product/asus-turbo-geforce-rtx-3070-8gb-27954535'
+		} 					
+		,{
+			brand: 'gigabyte',
+			model: 'eagle',
+			series: '3070',
+            url: 'https://www.steg-electronics.ch/fr/product/gigabyte-geforce-rtx-3070-eagle-8g-27737521'
+		} 					
+		,{
+			brand: 'asus',
+			model: 'dual',
+			series: '3070',
+            url: 'https://www.steg-electronics.ch/fr/product/asus-dual-rtx-3070-8g-27731893'
+		} 					
+		,{
+			brand: 'asus',
+			model: 'strix',
+			series: '3070',
+            url: 'https://www.steg-electronics.ch/fr/product/asus-rog-strix-rtx-3070-8g-gaming-27731746'
+		} 					
+		,{
+			brand: 'msi',
+			model: 'suprim',
+			series: '3070',
+            url: 'https://www.steg-electronics.ch/fr/product/msi-geforce-rtx-3070-suprim-8gb-27902490'
+		} 					
+		,{
+			brand: 'palit',
+			model: 'gaming',
+			series: '3070',
+            url: 'https://www.steg-electronics.ch/fr/product/palit-geforce-rtx-3070-jetstream-8gb-27863402'
+		} 					
+		,{
+			brand: 'pny',
+			model: 'uprising',
+			series: '3070',
+            url: 'https://www.steg-electronics.ch/fr/product/pny-geforce-rtx-3070-uprising-dual-fan-8gb-27863388'
+		} 					
+		,{
+			brand: 'pny',
+			model: 'xlr8 revel',
+			series: '3070',
+            url: 'https://www.steg-electronics.ch/fr/product/pny-geforce-rtx-3070-xlr8-revel-epic-x-rgb-triple-fan-edition-8gb-27863360'
+		} 					
+		,{
+			brand: 'msi',
+			model: 'suprim x',
+			series: '3070',
+            url: 'https://www.steg-electronics.ch/fr/product/msi-geforce-rtx-3070-suprim-x-8gb-27857025'
+		} 					
+		,{
+			brand: 'gainward',
+			model: 'phantom gs',
+			series: '3070',
+            url: 'https://www.steg-electronics.ch/fr/product/gainward-geforce-rtx-3070-phantom-gs-8gb-27850634'
+		} 					
+		,{
+			brand: 'inno3d',
+			model: 'twin x2',
+			series: '3070',
+            url: 'https://www.steg-electronics.ch/fr/product/inno3d-geforce-rtx-3070-twin-x2-8gb-27796972'
+		} 					
+		,{
+			brand: 'inno3d',
+			model: 'twin x2 oc',
+			series: '3070',
+            url: 'https://www.steg-electronics.ch/fr/product/inno3d-geforce-rtx-3070-twin-x2-oc-8gb-27796916'
+		} 					
+		,{
+			brand: 'kfa2',
+			model: 'sg oc',
+			series: '3070',
+            url: 'https://www.steg-electronics.ch/fr/product/kfa2-geforce-rtx-3070-sg-oc-8gb-27796888'
+		} 					
+		,{
+			brand: 'evga',
+			model: 'ftw3',
+			series: '3070',
+            url: 'https://www.steg-electronics.ch/fr/product/evga-geforce-rtx-3070-ftw3-8gb-27791400'
+		} 					
+		,{
+			brand: 'evga',
+			model: 'ftw3 ultra',
+			series: '3070',
+            url: 'https://www.steg-electronics.ch/fr/product/evga-geforce-rtx-3070-ftw3-ultra-gaming-8gb-27791393'
+		} 					
+		,{
+			brand: 'evga',
+			model: 'xc3',
+			series: '3070',
+            url: 'https://www.steg-electronics.ch/fr/product/evga-geforce-rtx-3070-xc3-8gb-27791386'
+		} 					
+		,{
+			brand: 'evga',
+			model: 'xc3 ultra',
+			series: '3070',
+            url: 'https://www.steg-electronics.ch/fr/product/evga-geforce-rtx-3070-xc3-ultra-gaming-8gb-27791134'
+		} 					
+		,{
+			brand: 'evga',
+			model: 'xc3 black',
+			series: '3070',
+            url: 'https://www.steg-electronics.ch/fr/product/evga-geforce-rtx-3070-xc3-black-gaming-8gb-27791120'
+		} 					
+		,{
+			brand: 'inno3d',
+			model: 'ichill x4',
+			series: '3070',
+            url: 'https://www.steg-electronics.ch/fr/product/inno3d-geforce-rtx-3070-ichill-x4-27768363'
+		} 					
+		,{
+			brand: 'palit',
+			model: 'gaming pro',
+			series: '3070',
+            url: 'https://www.steg-electronics.ch/fr/product/palit-geforce-rtx-3070-gamingpro-27768251'
+		} 					
+		,{
+			brand: 'palit',
+			model: 'gaming pro oc',
+			series: '3070',
+            url: 'https://www.steg-electronics.ch/fr/product/palit-geforce-rtx-3070-gamingpro-oc-27768237'
+		} 					
+		,{
+			brand: 'palit',
+			model: 'gamerock',
+			series: '3070',
+            url: 'https://www.steg-electronics.ch/fr/product/palit-geforce-rtx-3070-gamerock-27768223'
+		} 					
+		,{
+			brand: 'palit',
+			model: 'gamerock oc',
+			series: '3070',
+            url: 'https://www.steg-electronics.ch/fr/product/palit-geforce-rtx-3070-gamerock-oc-27768209'
+		} 					
+		,{
+			brand: 'gainward',
+			model: 'phoenix',
+			series: '3070',
+            url: 'https://www.steg-electronics.ch/fr/product/gainward-geforce-rtx-3070-phoenix-8gb-27759788'
 		} 					
 	],
 	name: 'steg'
