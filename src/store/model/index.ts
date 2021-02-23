@@ -35,6 +35,7 @@ import {BestBuyCa} from './bestbuy-ca';
 import {Box} from './box';
 import {Bpctech} from './bpctech';
 import {BpmPower} from './bpmpower';
+import {Brack} from './brack';
 import {CanadaComputers} from './canadacomputers';
 import {Caseking} from './caseking';
 import {Ccl} from './ccl';
@@ -179,6 +180,7 @@ export const storeList = new Map([
   [Box.name, Box],
   [Bpctech.name, Bpctech],
   [BpmPower.name, BpmPower],
+  [Brack.name, Brack],  
   [Caseking.name, Caseking],
   [CanadaComputers.name, CanadaComputers],
   [Ccl.name, Ccl],
