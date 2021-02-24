@@ -120,6 +120,7 @@ export type Model =
   | 'igame advanced oc'
   | 'igame ultra oc'
   | 'igame vulcan oc'
+  | 'jetstream'
   | 'ko oc'
   | 'ko'
   | 'nitro+'
