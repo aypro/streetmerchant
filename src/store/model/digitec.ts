@@ -28,6 +28,48 @@ export const Digitec: Store = {
 			series: 'ryzen3400g',
             url: 'https://www.digitec.ch/en/s1/product/11239818'
         }, 		
+		{
+			brand: 'gigabyte',
+			model: 'eagle oc',
+			series: '3060',
+            url: 'https://www.digitec.ch/en/s1/product/14788295'
+        },
+		{
+			brand: 'msi',
+			model: 'ventus 3x',
+			series: '3060',
+            url: 'https://www.digitec.ch/en/s1/product/14884787'
+        },
+		{
+			brand: 'gigabyte',
+			model: 'gaming oc',
+			series: '3060',
+            url: 'https://www.digitec.ch/en/s1/product/14788294'
+        },
+		{
+			brand: 'asus',
+			model: 'tuf',
+			series: '3060',
+            url: 'https://www.digitec.ch/en/s1/product/14850250'
+        },
+		{
+			brand: 'msi',
+			model: 'gaming x trio',
+			series: '3060',
+            url: 'https://www.digitec.ch/en/s1/product/14884626'
+        },
+		{
+			brand: 'msi',
+			model: 'gaming x',
+			series: '3060',
+            url: 'https://www.digitec.ch/en/s1/product/14884786'
+        },
+		{
+			brand: 'asus',
+			model: 'strix',
+			series: '3060',
+            url: 'https://www.digitec.ch/en/s1/product/14784186'
+        },
 		//3070
 		{
 			brand: 'asus',
