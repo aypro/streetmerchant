@@ -28,8 +28,13 @@ export const Brack: Store = {
 			model: 'jetstream',
 			series: '3070',
             url: 'https://www.brack.ch/fr/palit-carte-graphique-geforce-rtx3070-jetstream-8-gb-1143428'
-        }		
-	
+        },		
+		{
+			brand: 'asus',
+			model: 'strix oc',
+			series: '3070',
+            url: 'https://www.brack.ch/fr/asus-rog-carte-graphique-geforce-rtx3070-o8g-gaming-1183634'
+        }			
 	],
 	name: 'brack'
 };
