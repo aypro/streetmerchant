@@ -34,7 +34,13 @@ export const Brack: Store = {
 			model: 'strix oc',
 			series: '3070',
             url: 'https://www.brack.ch/fr/asus-rog-carte-graphique-geforce-rtx3070-o8g-gaming-1183634'
-        }			
+        },
+		{
+			brand: 'msi',
+			model: 'suprim x',
+			series: '3090',
+            url: 'https://www.brack.ch/fr/msi-carte-graphique-geforce-rtx3090-suprim-x-24-gb-1145736	'
+        }						
 	],
 	name: 'brack'
 };
