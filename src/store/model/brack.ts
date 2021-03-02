@@ -16,6 +16,25 @@ export const Brack: Store = {
 		]
 	},
 	links: [
+		//3060
+		{
+			brand: 'palit',
+			model: 'dual',
+			series: '3060',
+            url: 'https://www.brack.ch/fr/palit-carte-graphique-geforce-rtx3060-dual-12-gb-1183112'
+        },
+		{
+			brand: 'gainward',
+			model: 'dual',
+			series: '3060',
+            url: 'https://www.brack.ch/fr/gainward-carte-graphique-geforce-rtx3060-ghost-12-gb-1183118'
+        },
+		{
+			brand: 'palit',
+			model: 'dual',
+			series: '3060ti',
+            url: 'https://www.brack.ch/palit-grafikkarte-geforce-rtx3060-ti-dual-8-gb-1137404'
+        },							
 		//3070
 		{
 			brand: 'palit',
@@ -35,6 +54,7 @@ export const Brack: Store = {
 			series: '3070',
             url: 'https://www.brack.ch/fr/asus-rog-carte-graphique-geforce-rtx3070-o8g-gaming-1183634'
         },
+		//3090
 		{
 			brand: 'msi',
 			model: 'suprim x',
