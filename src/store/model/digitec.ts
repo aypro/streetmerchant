@@ -494,7 +494,92 @@ export const Digitec: Store = {
 			model: 'trinity',
 			series: '3090',
             url: 'https://www.digitec.ch/en/s1/product/13752152'
-		}                                                                                                                                           
+		}, 
+		//3060ti     
+		{
+			brand: 'msi',
+			model: 'ventus 3x oc',
+			series: '3060ti',
+            url: 'https://www.digitec.ch/en/s1/product/14365531'
+		},   
+		{
+			brand: 'msi',
+			model: 'gaming x trio',
+			series: '3060ti',
+            url: 'https://www.digitec.ch/en/s1/product/14365529'
+		},
+		{
+			brand: 'gigabyte',
+			model: 'gaming pro oc',
+			series: '3060ti',
+            url: 'https://www.digitec.ch/en/s1/product/14159266'
+		},                                                                                                                                       
+		{
+			brand: 'msi',
+			model: 'ventus 2x oc',
+			series: '3060ti',
+            url: 'https://www.digitec.ch/en/s1/product/14365532'
+		},                                                                                                                                       
+		{
+			brand: 'zotac',
+			model: 'twin edge',
+			series: '3060ti',
+            url: 'https://www.digitec.ch/en/s1/product/14351303'
+		},                                                                                                                                       
+		{
+			brand: 'gigabyte',
+			model: 'eagle oc',
+			series: '3060ti',
+            url: 'https://www.digitec.ch/en/s1/product/14159290'
+		},                                                                                                                                       
+		{
+			brand: 'gigabyte',
+			model: 'gaming oc',
+			series: '3060ti',
+            url: 'https://www.digitec.ch/en/s1/product/14159285'
+		},                                                                                                                                       
+		{
+			brand: 'gigabyte',
+			model: 'aorus master',
+			series: '3060ti',
+            url: 'https://www.digitec.ch/en/s1/product/14159176'
+		},                                                                                                                                       
+		{
+			brand: 'asus',
+			model: 'dual',
+			series: '3060ti',
+            url: 'https://www.digitec.ch/en/s1/product/14131791'
+		},                                                                                                                                       
+		{
+			brand: 'gigabyte',
+			model: 'eagle',
+			series: '3060ti',
+            url: 'https://www.digitec.ch/en/s1/product/14159322'
+		},                                                                                                                                       
+		{
+			brand: 'asus',
+			model: 'tuf',
+			series: '3060ti',
+            url: 'https://www.digitec.ch/en/s1/product/14131773'
+		},                                                                                                                                       
+		{
+			brand: 'asus',
+			model: 'strix',
+			series: '3060ti',
+            url: 'https://www.digitec.ch/en/s1/product/14131786'
+		},                                                                                                                                       
+		{
+			brand: 'kfa2',
+			model: 'gaming',
+			series: '3060ti',
+            url: 'https://www.digitec.ch/en/s1/product/14396890'
+		},                                                                                                                                       
+		{
+			brand: 'asus',
+			model: 'tuf',
+			series: '3060ti',
+            url: 'https://www.digitec.ch/en/s1/product/14131769'
+		}                                                                                                                                       
 	],
 	name: 'digitec'
 };
