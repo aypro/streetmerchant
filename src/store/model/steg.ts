@@ -534,6 +534,174 @@ export const Steg: Store = {
 			model: 'phoenix',
 			series: '3070',
             url: 'https://www.steg-electronics.ch/fr/product/gainward-geforce-rtx-3070-phoenix-8gb-27759788'
+		} 	
+		,{
+			brand: 'gigabyte',
+			model: 'gaming oc pro',
+			series: '3060ti',
+            url: 'https://www.steg-electronics.ch/fr/product/gigabyte-geforce-rtx-3060-ti-gaming-oc-pro-8g-27813891'
+		} 					
+		,{
+			brand: 'gigabyte',
+			model: 'eagle oc',
+			series: '3060ti',
+            url: 'https://www.steg-electronics.ch/fr/product/gigabyte-geforce-rtx-3060-ti-eagle-oc-8g-27813870'
+		} 					
+		,{
+			brand: 'gigabyte',
+			model: 'gaming oc',
+			series: '3060ti',
+            url: 'https://www.steg-electronics.ch/fr/product/gigabyte-geforce-rtx-3060-ti-gaming-oc-8g-27813884'
+		} 					
+		,{
+			brand: 'asus',
+			model: 'tuf oc',
+			series: '3060ti',
+            url: 'https://www.steg-electronics.ch/fr/product/asus-tuf-geforce-rtx-3060-ti-gaming-o8g-27816243'
+		} 					
+		,{
+			brand: 'gigabyte',
+			model: 'aorus master',
+			series: '3060ti',
+            url: 'https://www.steg-electronics.ch/fr/product/gigabyte-aorus-geforce-rtx-3060-ti-master-8g-27813863'
+		} 					
+		,{
+			brand: 'msi',
+			model: 'ventus 2x oc',
+			series: '3060ti',
+            url: 'https://www.steg-electronics.ch/fr/product/msi-geforce-rtx-3060-ti-ventus-2x-ocv1-8gb-27931365?catId=11885'
+		} 					
+		,{
+			brand: 'zotac',
+			model: 'twin edge oc',
+			series: '3060ti',
+            url: 'https://www.steg-electronics.ch/fr/product/zotac-geforce-rtx-3060-ti-twin-edge-oc-8gb-27851642?catId=11885'
+		} 					
+		,{
+			brand: 'msi',
+			model: 'gaming x trio',
+			series: '3060ti',
+            url: 'https://www.steg-electronics.ch/fr/product/msi-geforce-rtx-3060-ti-gaming-x-trio-8gb-27883849?catId=11885'
+		} 					
+		,{
+			brand: 'gigabyte',
+			model: 'gaming oc pro',
+			series: '3060ti',
+            url: 'https://www.steg-electronics.ch/fr/product/gigabyte-geforce-rtx-3060-ti-gaming-oc-pro-8g-rev-2-0-27964902?catId=11885'
+		} 					
+		,{
+			brand: 'gigabyte',
+			model: 'vision oc',
+			series: '3060ti',
+            url: 'https://www.steg-electronics.ch/fr/product/gigabyte-geforce-rtx-3060-ti-vision-oc-8g-27964895?catId=11885'
+		} 					
+		,{
+			brand: 'asus',
+			model: 'strix',
+			series: '3060ti',
+            url: 'https://www.steg-electronics.ch/fr/product/asus-rog-strix-geforce-rtx-3060-ti-gaming-o8g-27816236?catId=11885'
+		} 					
+		,{
+			brand: 'asus',
+			model: 'dual',
+			series: '3060ti',
+            url: 'https://www.steg-electronics.ch/fr/product/asus-dual-geforce-rtx-3060-ti-o8g-27816775?catId=11885'
+		} 					
+		,{
+			brand: 'asus',
+			model: 'strix',
+			series: '3060ti',
+            url: 'https://www.steg-electronics.ch/fr/product/asus-rog-strix-geforce-rtx-3060-ti-gaming-8g-27816761?catId=11885'
+		} 					
+		,{
+			brand: 'msi',
+			model: 'ventus 3x oc',
+			series: '3060ti',
+            url: 'https://www.steg-electronics.ch/fr/product/msi-geforce-rtx-3060-ti-ventus-3x-oc-8gb-27883856?catId=11885'
+		} 					
+		,{
+			brand: 'asus',
+			model: 'dual',
+			series: '3060ti',
+            url: 'https://www.steg-electronics.ch/fr/product/asus-dual-geforce-rtx-3060-ti-8g-27816782?catId=11885'
+		} 					
+		,{
+			brand: 'palit',
+			model: 'gaming pro oc',
+			series: '3060ti',
+            url: 'https://www.steg-electronics.ch/fr/product/palit-geforce-rtx-3060-ti-gaming-pro-oc-8gb-27897548?catId=11885'
+		} 					
+		,{
+			brand: 'gigabyte',
+			model: 'eagle',
+			series: '3060ti',
+            url: 'https://www.steg-electronics.ch/fr/product/gigabyte-geforce-rtx-3060-ti-eagle-8g-27813877?catId=11885'
+		} 					
+		,{
+			brand: 'zotac',
+			model: 'twin edge',
+			series: '3060ti',
+            url: 'https://www.steg-electronics.ch/fr/product/zotac-geforce-rtx-3060-ti-twin-edge-8gb-27851635?catId=11885'
+		} 					
+		,{
+			brand: 'msi',
+			model: 'ventus 2x oc',
+			series: '3060ti',
+            url: 'https://www.steg-electronics.ch/fr/product/msi-geforce-rtx-3060-ti-ventus-2x-oc-8gb-27883870?catId=11885'
+		} 					
+		,{
+			brand: 'msi',
+			model: 'gaming x',
+			series: '3060ti',
+            url: 'https://www.steg-electronics.ch/fr/product/msi-geforce-rtx-3060-ti-gaming-x-8gb-27979896?catId=11885'
+		} 					
+		,{
+			brand: 'palit',
+			model: 'dual',
+			series: '3060ti',
+            url: 'https://www.steg-electronics.ch/fr/product/palit-geforce-rtx-3060-ti-dual-8gb-27897849?catId=11885'
+		} 					
+		,{
+			brand: 'palit',
+			model: 'dual oc',
+			series: '3060ti',
+            url: 'https://www.steg-electronics.ch/fr/product/palit-geforce-rtx-3060-ti-dual-oc-8gb-27897646?catId=11885'
+		} 					
+		,{
+			brand: 'palit',
+			model: 'gaming pro',
+			series: '3060ti',
+            url: 'https://www.steg-electronics.ch/fr/product/palit-geforce-rtx-3060-ti-gaming-pro-8gb-27897604?catId=11885'
+		} 					
+		,{
+			brand: 'evga',
+			model: 'ftw3',
+			series: '3060ti',
+            url: 'https://www.steg-electronics.ch/fr/product/evga-geforce-rtx-3060-ti-ftw3-xc-gaming-8gb-27893166?catId=11885'
+		} 					
+		,{
+			brand: 'evga',
+			model: 'ftw3 black',
+			series: '3060ti',
+            url: 'https://www.steg-electronics.ch/fr/product/evga-geforce-rtx-3060-ti-ftw3-black-gaming-8gb-27893159?catId=11885'
+		} 					
+		,{
+			brand: 'evga',
+			model: 'ftw3',
+			series: '3060ti',
+            url: 'https://www.steg-electronics.ch/fr/product/evga-geforce-rtx-3060-ti-ftw3-gaming-8gb-27893152?catId=11885'
+		} 					
+		,{
+			brand: 'evga',
+			model: 'ftw3 ultra',
+			series: '3060ti',
+            url: 'https://www.steg-electronics.ch/fr/product/evga-geforce-rtx-3060-ti-ftw3-ultra-gaming-8gb-27893145?catId=11885'
+		} 					
+		,{
+			brand: 'asus',
+			model: 'tuf',
+			series: '3060ti',
+            url: 'https://www.steg-electronics.ch/fr/product/asus-tuf-geforce-rtx-3060-ti-gaming-8g-27816747?catId=11885'
 		} 					
 	],
 	name: 'steg'
