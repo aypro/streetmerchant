@@ -33,7 +33,7 @@ export const Brack: Store = {
 			brand: 'palit',
 			model: 'dual',
 			series: '3060ti',
-            url: 'https://www.brack.ch/palit-grafikkarte-geforce-rtx3060-ti-dual-8-gb-1137404'
+            url: 'https://www.brack.ch/fr/palit-grafikkarte-geforce-rtx3060-ti-dual-8-gb-1137404'
         },							
 		//3070
 		{
