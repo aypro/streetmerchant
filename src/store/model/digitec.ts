@@ -28,6 +28,7 @@ export const Digitec: Store = {
 			series: 'ryzen3400g',
             url: 'https://www.digitec.ch/en/s1/product/11239818'
         }, 		
+		//3060
 		{
 			brand: 'gigabyte',
 			model: 'eagle oc',
@@ -393,6 +394,7 @@ export const Digitec: Store = {
 			series: '3080',
             url: 'https://www.digitec.ch/en/s1/product/13752263'
 		},      
+		//3090
 		{
 			brand: 'asus',
 			model: 'tuf',
