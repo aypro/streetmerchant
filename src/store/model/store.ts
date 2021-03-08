@@ -1,4 +1,4 @@
-import {Browser, LoadEvent} from 'puppeteer';
+import {Browser, PuppeteerLifeCycleEvent} from 'puppeteer';
 
 export type Element = {
   container?: string;
@@ -39,7 +39,7 @@ export type Brand =
 export type Series =
   | 'test:series'
   | 'captcha-deterrent'
-  | '3060'  
+  | '3060'
   | '3060ti'
   | '3070'
   | '3080'
@@ -75,6 +75,7 @@ export type Model =
   | 'amd reference'
   | 'amp extreme holo'
   | 'amp holo'
+  | 'amp white'
   | 'aorus master'
   | 'aorus master type-c'
   | 'aorus xtreme'
@@ -108,6 +109,7 @@ export type Model =
   | 'gaming trio'
   | 'gaming x'  
   | 'gaming x trio'
+  | 'gaming x'
   | 'gaming x3'
   | 'ghost oc'
   | 'suprim x'
@@ -236,7 +238,7 @@ export type Store = {
    * 0 -> 399 inclusive.
    */
   successStatusCodes?: StatusCodeRangeArray;
-  waitUntil?: LoadEvent;
+  waitUntil?: PuppeteerLifeCycleEvent;
   minPageSleep?: number;
   maxPageSleep?: number;
 
