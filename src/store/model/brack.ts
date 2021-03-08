@@ -31,7 +31,7 @@ export const Brack: Store = {
         },		
 		{
 			brand: 'gainward',
-			model: 'ghost oc',
+			model: 'ghost',
 			series: '3060',
             url: 'https://www.brack.ch/fr/gainward-carte-graphique-geforce-rtx3060-ghost-12-gb-1183118'
         },
