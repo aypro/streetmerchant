@@ -24,11 +24,54 @@ export const Brack: Store = {
             url: 'https://www.brack.ch/fr/palit-carte-graphique-geforce-rtx3060-dual-12-gb-1183112'
         },
 		{
+			brand: 'palit',
+			model: 'dual oc',
+			series: '3060',
+            url: 'https://www.brack.ch/fr/palit-carte-graphique-geforce-rtx3060-dual-oc-12-gb-1183101'
+        },		
+		{
 			brand: 'gainward',
 			model: 'dual',
 			series: '3060',
             url: 'https://www.brack.ch/fr/gainward-carte-graphique-geforce-rtx3060-ghost-12-gb-1183118'
         },
+		{
+			brand: 'asus',
+			model: 'dual oc',
+			series: '3060',
+            url: 'https://www.brack.ch/fr/asus-carte-graphique-dual-geforce-rtx3060-o12g-1171851'
+        },	
+		{
+			brand: 'asus',
+			model: 'dual',
+			series: '3060',
+            url: 'https://www.brack.ch/fr/asus-carte-graphique-dual-geforce-rtx3060-12g-1171850'
+        },	
+		{
+			brand: 'msi',
+			model: 'gaming x trio',
+			series: '3060',
+            url: 'https://www.brack.ch/fr/msi-carte-graphique-geforce-rtx3060-gaming-x-trio-12-gb-1186346'
+        },	
+		{
+			brand: 'msi',
+			model: 'gaming x',
+			series: '3060',
+            url: 'https://www.brack.ch/fr/msi-carte-graphique-geforce-rtx3060-gaming-x-12-gb-1186348'
+        },	
+		{
+			brand: 'asus',
+			model: 'tuf oc',
+			series: '3060',
+            url: 'https://www.brack.ch/fr/asus-carte-graphique-tuf-geforce-rtx3060-o12g-gaming-1164248'
+        },		
+		{
+			brand: 'msi',
+			model: 'ventus 3x',
+			series: '3060',
+            url: 'https://www.brack.ch/fr/msi-carte-graphique-geforce-rtx3060-ventus-3x-12-gb-1186350'
+        },		
+		//3060ti
 		{
 			brand: 'palit',
 			model: 'dual',
