@@ -126,7 +126,13 @@ export const Brack: Store = {
 			model: 'strix oc',
 			series: '3070',
             url: 'https://www.brack.ch/fr/asus-rog-carte-graphique-geforce-rtx3070-o8g-gaming-1121536'
-        },									
+        },	
+		{
+			brand: 'gainward',
+			model: 'phoenix gs',
+			series: '3070',
+            url: 'https://www.brack.ch/fr/gainward-carte-graphique-geforce-rtx3070-phoenix-gs-8-gb-1127721'
+        },													
 		//3090
 		{
 			brand: 'msi',
