@@ -109,6 +109,24 @@ export const Brack: Store = {
 			series: '3070',
             url: 'https://www.brack.ch/fr/asus-rog-carte-graphique-geforce-rtx3070-o8g-gaming-1183634'
         },
+		{
+			brand: 'asus',
+			model: 'tuf oc',
+			series: '3070',
+            url: 'https://www.brack.ch/fr/asus-carte-graphique-tuf-geforce-rtx-3070-o8g-1121537'
+        },	
+		{
+			brand: 'asus',
+			model: 'dual oc',
+			series: '3070',
+            url: 'https://www.brack.ch/fr/asus-carte-graphique-geforce-rtx3070-o8g-1121538'
+        },	
+		{
+			brand: 'asus',
+			model: 'strix oc',
+			series: '3070',
+            url: 'https://www.brack.ch/fr/asus-rog-carte-graphique-geforce-rtx3070-o8g-gaming-1121536'
+        },									
 		//3090
 		{
 			brand: 'msi',
