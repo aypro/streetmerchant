@@ -132,7 +132,19 @@ export const Brack: Store = {
 			model: 'phoenix gs',
 			series: '3070',
             url: 'https://www.brack.ch/fr/gainward-carte-graphique-geforce-rtx3070-phoenix-gs-8-gb-1127721'
-        },													
+        },	
+		{
+			brand: 'msi',
+			model: 'ventus 3x oc',
+			series: '3070',
+            url: 'https://www.brack.ch/fr/msi-carte-graphique-geforce-rtx3070-ventus-3x-oc-1127695'
+        },
+		{
+			brand: 'msi',
+			model: 'gaming x trio',
+			series: '3070',
+            url: 'https://www.brack.ch/fr/msi-carte-graphique-geforce-rtx3070-gaming-x-trio-8-gb-1127694'
+        },											
 		//3090
 		{
 			brand: 'msi',
