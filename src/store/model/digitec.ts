@@ -515,73 +515,136 @@ export const Digitec: Store = {
 			model: 'gaming pro oc',
 			series: '3060ti',
             url: 'https://www.digitec.ch/en/s1/product/14159266'
-		},                                                                                                                                       
+		},
 		{
 			brand: 'msi',
 			model: 'ventus 2x oc',
 			series: '3060ti',
             url: 'https://www.digitec.ch/en/s1/product/14365532'
-		},                                                                                                                                       
+		},
 		{
 			brand: 'zotac',
 			model: 'twin edge',
 			series: '3060ti',
             url: 'https://www.digitec.ch/en/s1/product/14351303'
-		},                                                                                                                                       
+		},
 		{
 			brand: 'gigabyte',
 			model: 'eagle oc',
 			series: '3060ti',
             url: 'https://www.digitec.ch/en/s1/product/14159290'
-		},                                                                                                                                       
+		},
 		{
 			brand: 'gigabyte',
 			model: 'gaming oc',
 			series: '3060ti',
             url: 'https://www.digitec.ch/en/s1/product/14159285'
-		},                                                                                                                                       
+		},
 		{
 			brand: 'gigabyte',
 			model: 'aorus master',
 			series: '3060ti',
             url: 'https://www.digitec.ch/en/s1/product/14159176'
-		},                                                                                                                                       
+		},
 		{
 			brand: 'asus',
 			model: 'dual',
 			series: '3060ti',
             url: 'https://www.digitec.ch/en/s1/product/14131791'
-		},                                                                                                                                       
+		},
 		{
 			brand: 'gigabyte',
 			model: 'eagle',
 			series: '3060ti',
             url: 'https://www.digitec.ch/en/s1/product/14159322'
-		},                                                                                                                                       
+		},
 		{
 			brand: 'asus',
 			model: 'tuf',
 			series: '3060ti',
             url: 'https://www.digitec.ch/en/s1/product/14131773'
-		},                                                                                                                                       
+		},
 		{
 			brand: 'asus',
 			model: 'strix',
 			series: '3060ti',
             url: 'https://www.digitec.ch/en/s1/product/14131786'
-		},                                                                                                                                       
+		},
 		{
 			brand: 'kfa2',
 			model: 'gaming',
 			series: '3060ti',
             url: 'https://www.digitec.ch/en/s1/product/14396890'
-		},                                                                                                                                       
+		},
 		{
 			brand: 'asus',
 			model: 'tuf',
 			series: '3060ti',
             url: 'https://www.digitec.ch/en/s1/product/14131769'
-		}                                                                                                                                       
+		},
+		//rx6800xt
+		{
+			brand: 'sapphire',
+			model: 'nitro+',
+			series: 'rx6800xt',
+            url: 'https://www.digitec.ch/en/s1/product/14195675'
+		},
+		{
+			brand: 'gigabyte',
+			model: 'gaming oc',
+			series: 'rx6800xt',
+            url: 'https://www.digitec.ch/en/s1/product/14367227'
+		},
+		{
+			brand: 'sapphire',
+			model: 'nitro+',
+			series: 'rx6800xt',
+            url: 'https://www.digitec.ch/en/s1/product/14195666'
+		},
+		{
+			brand: 'asus',
+			model: 'tuf',
+			series: 'rx6800xt',
+            url: 'https://www.digitec.ch/en/s1/product/14370347'
+		},
+		{
+			brand: 'asus',
+			model: 'strix lc',
+			series: 'rx6800xt',
+            url: 'https://www.digitec.ch/en/s1/product/14370346'
+		},
+		//rx6800		
+		{
+			brand: 'sapphire',
+			model: 'nitro+',
+			series: 'rx6800',
+            url: 'https://www.digitec.ch/en/s1/product/14195702'
+		},
+		{
+			brand: 'asus',
+			model: 'strix',
+			series: 'rx6800',
+            url: 'https://www.digitec.ch/en/s1/product/14370360'
+		},
+		{
+			brand: 'asus',
+			model: 'tuf',
+			series: 'rx6800',
+            url: 'https://www.digitec.ch/en/s1/product/14370361'
+		},
+		{
+			brand: 'gigabyte',
+			model: 'gaming oc',
+			series: 'rx6800',
+            url: 'https://www.digitec.ch/en/s1/product/14367226'
+		},
+		//rx6900xt
+		{
+			brand: 'asus',
+			model: 'gaming',
+			series: 'rx6900xt',
+            url: 'https://www.digitec.ch/en/s1/product/14406423'
+		}		
 	],
 	name: 'digitec'
 };
