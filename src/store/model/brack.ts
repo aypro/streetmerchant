@@ -144,6 +144,24 @@ export const Brack: Store = {
 			model: 'gaming x trio',
 			series: '3070',
             url: 'https://www.brack.ch/fr/msi-carte-graphique-geforce-rtx3070-gaming-x-trio-8-gb-1127694'
+        },
+		{
+			brand: 'asus',
+			model: 'strix',
+			series: '3080',
+            url: 'https://www.brack.ch/fr/asus-rog-grafikkarte-geforce-rtx3080-10g-gaming-1113386'
+        },
+		{
+			brand: 'msi',
+			model: 'ventus 3x oc',
+			series: '3080',
+            url: 'https://www.brack.ch/fr/msi-carte-graphique-geforce-rtx3080-ventus-3x-oc-1118832'
+        },
+		{
+			brand: 'gigabyte',
+			model: 'gaming oc',
+			series: '3080',
+            url: 'https://www.brack.ch/fr/gigabyte-carte-graphique-geforce-rtx3080-gaming-oc-10gb-1118842'
         },											
 		//3090
 		{
