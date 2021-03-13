@@ -76,133 +76,133 @@ export const Steg: Store = {
 			model: 'eagle',
 			series: '3080',
             url: 'https://www.steg-electronics.ch/fr/product/gigabyte-geforce-rtx-3080-eagle-10g-27814374'
-        }                                                                                                                                                                                                
+        }
 		,{
 			brand: 'zotac',
 			model: 'amp holo',
 			series: '3080',
             url: 'https://www.steg-electronics.ch/fr/product/zotac-geforce-rtx-3080-amp-holo-10gb-27691132'
-        }                                                                                                                                                                                                
+        }
 		,{
 			brand: 'evga',
 			model: 'xc3 black',
 			series: '3080',
             url: 'https://www.steg-electronics.ch/fr/product/evga-geforce-rtx-3080-xc3-black-gaming-10gb-27580763'
-        }                                                                                                                                                                                                
+        }
 		,{
 			brand: 'zotac',
 			model: 'trinity oc',
 			series: '3080',
             url: 'https://www.steg-electronics.ch/fr/product/zotac-gaming-geforce-rtx-3080-trinity-oc-10gb-27691125'
-        }                                                                                                                                                                                                
+        }
 		,{
 			brand: 'inno3d',
 			model: 'ichill x3',
 			series: '3080',
             url: 'https://www.steg-electronics.ch/fr/product/inno3d-geforce-rtx-3080-ichill-x3-10g-27575989'
-        }                                                                                                                                                                                                
+        }
 		,{
 			brand: 'inno3d',
 			model: 'twin x2 oc',
 			series: '3080',
             url: 'https://www.steg-electronics.ch/fr/product/inno3d-geforce-rtx-3080-twin-x2-oc-10g-27575884'
-        }                                                                                                                                                                                                
+        }
 		,{
 			brand: 'msi',
 			model: 'ventus 3x oc',
 			series: '3080',
             url: 'https://www.steg-electronics.ch/fr/product/msi-geforce-rtx-3080-ventus-3x-oc-10g-27554443'
-        }                                                                                                                                                                                                
+        }
 		,{
 			brand: 'asus',
 			model: 'tuf',
 			series: '3080',
             url: 'https://www.steg-electronics.ch/fr/product/asus-geforce-tuf-rtx-3080-gaming-10g-27567491'
-        }                                                                                                                                                                                                
+        }
 		,{
 			brand: 'pny',
 			model: 'xlr8 epic x',
 			series: '3080',
             url: 'https://www.steg-electronics.ch/fr/product/pny-geforce-rtx-3080-xlr8-gaming-epic-x-rgb-triple-fan-edition-10gb-27576171'
-        }                                                                                                                                                                                                
+        }
 		,{
 			brand: 'msi',
 			model: 'gaming x trio',
 			series: '3080',
             url: 'https://www.steg-electronics.ch/fr/product/msi-geforce-rtx-3080-gaming-x-trio-10g-27554394'
-        }                                                                                                                                                                                                
+        }
 		,{
 			brand: 'pny',
 			model: 'xlr8 epic x',
 			series: '3080',
             url: 'https://www.steg-electronics.ch/fr/product/pny-geforce-rtx-3080-xlr8-gaming-epic-x-rgb-triple-fan-edition-10gb-27576206'
-        }                                                                                                                                                                                                
+        }
 		,{
 			brand: 'gigabyte',
 			model: 'gaming oc',
 			series: '3080',
             url: 'https://www.steg-electronics.ch/fr/product/gigabyte-geforce-rtx-3080-gaming-oc-10g-27559133'
-        }                                                                                                                                                                                                
+        }
 		,{
 			brand: 'gigabyte',
 			model: 'vision oc',
 			series: '3080',
             url: 'https://www.steg-electronics.ch/fr/product/gigabyte-geforce-rtx-3080-vision-oc-10gb-27685357'
-        }                                                                                                                                                                                                
+        }
 		,{
 			brand: 'inno3d',
 			model: 'ichill frostbite',
 			series: '3080',
             url: 'https://www.steg-electronics.ch/fr/product/inno3d-geforce-rtx-3080-ichill-frostbite-10gb-27878473'
-        }                                                                                                                                                                                                
+        }
 		,{
 			brand: 'evga',
 			model: 'ftw3',
 			series: '3080',
             url: 'https://www.steg-electronics.ch/fr/product/evga-geforce-rtx-3080-ftw3-gaming-27580854'
-        }                                                                                                                                                                                                
+        }
 		,{
 			brand: 'evga',
 			model: 'xc3 ultra',
 			series: '3080',
             url: 'https://www.steg-electronics.ch/fr/product/evga-geforce-rtx-3080-xc3-ultra-gaming-10gb-27580777'
-        }                                                                                                                                                                                                
+        }
 		,{
 			brand: 'msi',
 			model: 'suprim x',
 			series: '3080',
             url: 'https://www.steg-electronics.ch/fr/product/msi-geforce-rtx-3080-suprim-x-10gb-27856955'
-        }                                                                                                                                                                                                
+        }
 		,{
 			brand: 'asus',
 			model: 'tuf oc',
 			series: '3080',
             url: 'https://www.steg-electronics.ch/fr/product/asus-geforce-tuf-rtx-3080-oc-gaming-10g-27567568'
-        }                                                                                                                                                                                                
+        }
 		,{
 			brand: 'gainward',
 			model: 'phantom gaming',
 			series: '3080',
             url: 'https://www.steg-electronics.ch/fr/product/gainward-geforce-rtx-3080-phantom-10gb-27740153'
-        }                                                                                                                                                                                                
+        }
 		,{
 			brand: 'palit',
 			model: 'gaming pro',
 			series: '3080',
             url: 'https://www.steg-electronics.ch/fr/product/palit-geforce-rtx-3080-gamingpro-10gb-27581911'
-        }                                                                                                                                                                                                
+        }
 		,{
 			brand: 'palit',
 			model: 'gaming pro oc',
 			series: '3080',
             url: 'https://www.steg-electronics.ch/fr/product/palit-geforce-rtx-3080-gamingpro-oc-10gb-27590535'
-        }                                                                                                                                                                                                
+        }
 		,{
 			brand: 'asus',
 			model: 'strix',
 			series: '3080',
             url: 'https://www.steg-electronics.ch/fr/product/asus-geforce-rog-strix-rtx-3080-gaming-10g-27554289'
-        }                                                                                                                                                                                                
+        }
 		,{
 			brand: 'gainward',
 			model: 'phoenix gs',
@@ -214,49 +214,49 @@ export const Steg: Store = {
 			model: 'phoenix',
 			series: '3080',
             url: 'https://www.steg-electronics.ch/fr/product/gainward-geforce-rtx-3080-phoenix-27594112'
-        }                                                                                                                                                                                                
+        }
 		,{
 			brand: 'asus',
 			model: 'strix oc',
 			series: '3080',
             url: 'https://www.steg-electronics.ch/fr/product/asus-geforce-rog-strix-rtx-3080-gaming-oc-10g-27567813'
-        }                                                                                                                                                                                                
+        }
 		,{
 			brand: 'gigabyte',
 			model: 'aorus xtreme',
 			series: '3080',
             url: 'https://www.steg-electronics.ch/fr/product/gigabyte-aorus-geforce-rtx-3080-xtreme-10g-27707722'
-        }                                                                                                                                                                                                
+        }
 		,{
 			brand: 'gainward',
 			model: 'phantom gs',
 			series: '3080',
             url: 'https://www.steg-electronics.ch/fr/product/gainward-geforce-rtx-3080-phantom-gs-10gb-27740181'
-        }                                                                                                                                                                                                
+        }
 		,{
 			brand: 'gigabyte',
 			model: 'aorus master',
 			series: '3080',
             url: 'https://www.steg-electronics.ch/fr/product/gigabyte-aorus-geforce-rtx-3080-master-10g-27559126'
-        }                                                                                                                                                                                                
+        }
 		,{
 			brand: 'asus',
 			model: 'ekwb',
 			series: '3080',
             url: 'https://www.steg-electronics.ch/fr/product/asus-eforce-rtx-3080-ek-10gb-27878690'
-        }                                                                                                                                                                                                
+        }
 		,{
 			brand: 'gigabyte',
 			model: 'aorus xtreme waterforce',
 			series: '3080',
             url: 'https://www.steg-electronics.ch/fr/product/gigabyte-aorus-geforce-rtx-3080-xtreme-waterforce-10g-27814339'
-        }                                                                                                                                                                                         
+        }
 		,{
 			brand: 'evga',
 			model: 'ftw3 ultra',
 			series: '3080',
             url: 'https://www.steg-electronics.ch/fr/product/evga-geforce-rtx-3080-ftw3-ultra-gaming-10gb-27580756'
-        }                                                                                                                                                                                                
+        }
 		,{
 			brand: 'gigabyte',
 			model: 'aorus xtreme waterforce wb',
@@ -275,8 +275,7 @@ export const Steg: Store = {
 			series: '3080',
             url: 'https://www.steg-electronics.ch/fr/product/asus-geforce-rog-strix-rtx-3080-gaming-oc-white-edition-10gb-27937791'
 		} 		
-		//3070/super
- 	
+		//3070
 		,{
 			brand: 'gigabyte',
 			model: 'gaming oc',
@@ -569,140 +568,260 @@ export const Steg: Store = {
 			brand: 'msi',
 			model: 'ventus 2x oc',
 			series: '3060ti',
-            url: 'https://www.steg-electronics.ch/fr/product/msi-geforce-rtx-3060-ti-ventus-2x-ocv1-8gb-27931365?catId=11885'
+            url: 'https://www.steg-electronics.ch/fr/product/msi-geforce-rtx-3060-ti-ventus-2x-ocv1-8gb-27931365'
 		} 					
 		,{
 			brand: 'zotac',
 			model: 'twin edge oc',
 			series: '3060ti',
-            url: 'https://www.steg-electronics.ch/fr/product/zotac-geforce-rtx-3060-ti-twin-edge-oc-8gb-27851642?catId=11885'
+            url: 'https://www.steg-electronics.ch/fr/product/zotac-geforce-rtx-3060-ti-twin-edge-oc-8gb-27851642'
 		} 					
 		,{
 			brand: 'msi',
 			model: 'gaming x trio',
 			series: '3060ti',
-            url: 'https://www.steg-electronics.ch/fr/product/msi-geforce-rtx-3060-ti-gaming-x-trio-8gb-27883849?catId=11885'
+            url: 'https://www.steg-electronics.ch/fr/product/msi-geforce-rtx-3060-ti-gaming-x-trio-8gb-27883849'
 		} 					
 		,{
 			brand: 'gigabyte',
 			model: 'gaming oc pro',
 			series: '3060ti',
-            url: 'https://www.steg-electronics.ch/fr/product/gigabyte-geforce-rtx-3060-ti-gaming-oc-pro-8g-rev-2-0-27964902?catId=11885'
+            url: 'https://www.steg-electronics.ch/fr/product/gigabyte-geforce-rtx-3060-ti-gaming-oc-pro-8g-rev-2-0-27964902'
 		} 					
 		,{
 			brand: 'gigabyte',
 			model: 'vision oc',
 			series: '3060ti',
-            url: 'https://www.steg-electronics.ch/fr/product/gigabyte-geforce-rtx-3060-ti-vision-oc-8g-27964895?catId=11885'
+            url: 'https://www.steg-electronics.ch/fr/product/gigabyte-geforce-rtx-3060-ti-vision-oc-8g-27964895'
 		} 					
 		,{
 			brand: 'asus',
 			model: 'strix',
 			series: '3060ti',
-            url: 'https://www.steg-electronics.ch/fr/product/asus-rog-strix-geforce-rtx-3060-ti-gaming-o8g-27816236?catId=11885'
+            url: 'https://www.steg-electronics.ch/fr/product/asus-rog-strix-geforce-rtx-3060-ti-gaming-o8g-27816236'
 		} 					
 		,{
 			brand: 'asus',
 			model: 'dual',
 			series: '3060ti',
-            url: 'https://www.steg-electronics.ch/fr/product/asus-dual-geforce-rtx-3060-ti-o8g-27816775?catId=11885'
+            url: 'https://www.steg-electronics.ch/fr/product/asus-dual-geforce-rtx-3060-ti-o8g-27816775'
 		} 					
 		,{
 			brand: 'asus',
 			model: 'strix',
 			series: '3060ti',
-            url: 'https://www.steg-electronics.ch/fr/product/asus-rog-strix-geforce-rtx-3060-ti-gaming-8g-27816761?catId=11885'
+            url: 'https://www.steg-electronics.ch/fr/product/asus-rog-strix-geforce-rtx-3060-ti-gaming-8g-27816761'
 		} 					
 		,{
 			brand: 'msi',
 			model: 'ventus 3x oc',
 			series: '3060ti',
-            url: 'https://www.steg-electronics.ch/fr/product/msi-geforce-rtx-3060-ti-ventus-3x-oc-8gb-27883856?catId=11885'
+            url: 'https://www.steg-electronics.ch/fr/product/msi-geforce-rtx-3060-ti-ventus-3x-oc-8gb-27883856'
 		} 					
 		,{
 			brand: 'asus',
 			model: 'dual',
 			series: '3060ti',
-            url: 'https://www.steg-electronics.ch/fr/product/asus-dual-geforce-rtx-3060-ti-8g-27816782?catId=11885'
+            url: 'https://www.steg-electronics.ch/fr/product/asus-dual-geforce-rtx-3060-ti-8g-27816782'
 		} 					
 		,{
 			brand: 'palit',
 			model: 'gaming pro oc',
 			series: '3060ti',
-            url: 'https://www.steg-electronics.ch/fr/product/palit-geforce-rtx-3060-ti-gaming-pro-oc-8gb-27897548?catId=11885'
+            url: 'https://www.steg-electronics.ch/fr/product/palit-geforce-rtx-3060-ti-gaming-pro-oc-8gb-27897548'
 		} 					
 		,{
 			brand: 'gigabyte',
 			model: 'eagle',
 			series: '3060ti',
-            url: 'https://www.steg-electronics.ch/fr/product/gigabyte-geforce-rtx-3060-ti-eagle-8g-27813877?catId=11885'
+            url: 'https://www.steg-electronics.ch/fr/product/gigabyte-geforce-rtx-3060-ti-eagle-8g-27813877'
 		} 					
 		,{
 			brand: 'zotac',
 			model: 'twin edge',
 			series: '3060ti',
-            url: 'https://www.steg-electronics.ch/fr/product/zotac-geforce-rtx-3060-ti-twin-edge-8gb-27851635?catId=11885'
+            url: 'https://www.steg-electronics.ch/fr/product/zotac-geforce-rtx-3060-ti-twin-edge-8gb-27851635'
 		} 					
 		,{
 			brand: 'msi',
 			model: 'ventus 2x oc',
 			series: '3060ti',
-            url: 'https://www.steg-electronics.ch/fr/product/msi-geforce-rtx-3060-ti-ventus-2x-oc-8gb-27883870?catId=11885'
+            url: 'https://www.steg-electronics.ch/fr/product/msi-geforce-rtx-3060-ti-ventus-2x-oc-8gb-27883870'
 		} 					
 		,{
 			brand: 'msi',
 			model: 'gaming x',
 			series: '3060ti',
-            url: 'https://www.steg-electronics.ch/fr/product/msi-geforce-rtx-3060-ti-gaming-x-8gb-27979896?catId=11885'
+            url: 'https://www.steg-electronics.ch/fr/product/msi-geforce-rtx-3060-ti-gaming-x-8gb-27979896'
 		} 					
 		,{
 			brand: 'palit',
 			model: 'dual',
 			series: '3060ti',
-            url: 'https://www.steg-electronics.ch/fr/product/palit-geforce-rtx-3060-ti-dual-8gb-27897849?catId=11885'
+            url: 'https://www.steg-electronics.ch/fr/product/palit-geforce-rtx-3060-ti-dual-8gb-27897849'
 		} 					
 		,{
 			brand: 'palit',
 			model: 'dual oc',
 			series: '3060ti',
-            url: 'https://www.steg-electronics.ch/fr/product/palit-geforce-rtx-3060-ti-dual-oc-8gb-27897646?catId=11885'
+            url: 'https://www.steg-electronics.ch/fr/product/palit-geforce-rtx-3060-ti-dual-oc-8gb-27897646'
 		} 					
 		,{
 			brand: 'palit',
 			model: 'gaming pro',
 			series: '3060ti',
-            url: 'https://www.steg-electronics.ch/fr/product/palit-geforce-rtx-3060-ti-gaming-pro-8gb-27897604?catId=11885'
+            url: 'https://www.steg-electronics.ch/fr/product/palit-geforce-rtx-3060-ti-gaming-pro-8gb-27897604'
 		} 					
 		,{
 			brand: 'evga',
 			model: 'ftw3',
 			series: '3060ti',
-            url: 'https://www.steg-electronics.ch/fr/product/evga-geforce-rtx-3060-ti-ftw3-xc-gaming-8gb-27893166?catId=11885'
+            url: 'https://www.steg-electronics.ch/fr/product/evga-geforce-rtx-3060-ti-ftw3-xc-gaming-8gb-27893166'
 		} 					
 		,{
 			brand: 'evga',
 			model: 'ftw3 black',
 			series: '3060ti',
-            url: 'https://www.steg-electronics.ch/fr/product/evga-geforce-rtx-3060-ti-ftw3-black-gaming-8gb-27893159?catId=11885'
+            url: 'https://www.steg-electronics.ch/fr/product/evga-geforce-rtx-3060-ti-ftw3-black-gaming-8gb-27893159'
 		} 					
 		,{
 			brand: 'evga',
 			model: 'ftw3',
 			series: '3060ti',
-            url: 'https://www.steg-electronics.ch/fr/product/evga-geforce-rtx-3060-ti-ftw3-gaming-8gb-27893152?catId=11885'
+            url: 'https://www.steg-electronics.ch/fr/product/evga-geforce-rtx-3060-ti-ftw3-gaming-8gb-27893152'
 		} 					
 		,{
 			brand: 'evga',
 			model: 'ftw3 ultra',
 			series: '3060ti',
-            url: 'https://www.steg-electronics.ch/fr/product/evga-geforce-rtx-3060-ti-ftw3-ultra-gaming-8gb-27893145?catId=11885'
+            url: 'https://www.steg-electronics.ch/fr/product/evga-geforce-rtx-3060-ti-ftw3-ultra-gaming-8gb-27893145'
 		} 					
 		,{
 			brand: 'asus',
 			model: 'tuf',
 			series: '3060ti',
-            url: 'https://www.steg-electronics.ch/fr/product/asus-tuf-geforce-rtx-3060-ti-gaming-8g-27816747?catId=11885'
-		} 					
+            url: 'https://www.steg-electronics.ch/fr/product/asus-tuf-geforce-rtx-3060-ti-gaming-8g-27816747'
+		}, 		
+		{//rx6800
+			brand: 'gigabyte',
+			model: 'gaming oc',
+			series: 'rx6800',
+            url: 'https://www.steg-electronics.ch/fr/product/gigabyte-radeon-rx-6800-gaming-oc-16gb-27860833'
+		}, 		
+		{
+			brand: 'asus',
+			model: 'gaming oc',
+			series: 'rx6800',
+            url: 'https://www.steg-electronics.ch/fr/product/asus-rog-strix-radeon-rx-6800-oc-gaming-16gb-27857193'
+		}, 		
+		{
+			brand: 'sapphire',
+			model: 'nitro+',
+			series: 'rx6800',
+            url: 'https://www.steg-electronics.ch/fr/product/sapphire-nitro-radeon-rx-6800-gaming-16gb-27844936'
+		}, 		
+		{
+			brand: 'sapphire',
+			model: 'pulse',
+			series: 'rx6800',
+            url: 'https://www.steg-electronics.ch/fr/product/sapphire-pulse-amd-radeon-rx-6800-16gb-27916007'
+		}, 		
+		{
+			brand: 'powercolor',
+			model: 'red devil',
+			series: 'rx6800',
+            url: 'https://www.steg-electronics.ch/fr/product/powercolor-radeon-rx-6800-red-devil-oc-16gb-27965434'
+		}, 		
+		{
+			brand: 'gigabyte',
+			model: 'amd reference',
+			series: 'rx6800',
+            url: 'https://www.steg-electronics.ch/fr/product/gigabyte-radeon-rx-6800-16gb-27849794'
+		}, 		
+		{
+			brand: 'msi',
+			model: 'gaming x trio',
+			series: 'rx6800',
+            url: 'https://www.steg-electronics.ch/fr/product/msi-radeon-rx-6800-gaming-x-trio-16g-27931344'
+		}, 		
+		{
+			brand: 'gigabyte',
+			model: 'aorus master',
+			series: 'rx6800',
+            url: 'https://www.steg-electronics.ch/fr/product/gigabyte-aorus-radeon-rx-6800-master-16gb-27921103'
+		}, 		
+		{
+			brand: 'asus',
+			model: 'tuf',
+			series: 'rx6800',
+            url: 'https://www.steg-electronics.ch/fr/product/asus-tuf-gaming-radeon-rx-6800-oc-gaming-16gb-27857214'
+		}, 		
+		{//6800xt
+			brand: 'gigabyte',
+			model: 'gaming oc',
+			series: 'rx6800xt',
+            url: 'https://www.steg-electronics.ch/fr/product/gigabyte-radeon-rx-6800-xt-gaming-oc-16gb-27860826'
+		}, 		
+		{
+			brand: 'gigabyte',
+			model: 'aorus master',
+			series: 'rx6800xt',
+            url: 'https://www.steg-electronics.ch/fr/product/gigabyte-aorus-radeon-rx-6800-xt-master-16gb-27921327'
+		}, 		
+		{
+			brand: 'gigabyte',
+			model: 'amd reference',
+			series: 'rx6800xt',
+            url: 'https://www.steg-electronics.ch/fr/product/gigabyte-radeon-rx-6800-xt-16gb-27849787'
+		}, 		
+		{
+			brand: 'asus',
+			model: 'tuf oc',
+			series: 'rx6800xt',
+            url: 'https://www.steg-electronics.ch/fr/product/asus-tuf-gaming-radeon-rx-6800-xt-oc-gaming-16gb-27857207'
+		}, 		
+		{
+			brand: 'sapphire',
+			model: 'nitro+',
+			series: 'rx6800xt',
+            url: 'https://www.steg-electronics.ch/fr/product/sapphire-nitro-radeon-rx-6800-xt-gaming-16gb-27844915'
+		}, 		
+		{
+			brand: 'xfx',
+			model: 'merc',
+			series: 'rx6800xt',
+            url: 'https://www.steg-electronics.ch/fr/product/xfx-speedster-merc-319-amd-radeon-rx-6800-xt-black-gaming-16gb-27956803'
+		}, 		
+		{
+			brand: 'sapphire',
+			model: 'nitro+ se',
+			series: 'rx6800xt',
+            url: 'https://www.steg-electronics.ch/fr/product/sapphire-nitro-radeon-rx-6800-xt-se-gaming-16gb-27844929'
+		}, 		
+		{
+			brand: 'msi',
+			model: 'gaming trio',
+			series: 'rx6800xt',
+            url: 'https://www.steg-electronics.ch/fr/product/msi-radeon-rx-6800-xt-gaming-x-trio-16g-vga-16gb-gdrr6-hdmi-2xdp-tri-frozr-fan-27931337'
+		}, 		
+		{
+			brand: 'powercolor',
+			model: 'red devil',
+			series: 'rx6800xt',
+            url: 'https://www.steg-electronics.ch/fr/product/powercolor-radeon-rx-6800xt-red-devil-oc-16gb-27965455'
+		}, 		
+		{
+			brand: 'asus',
+			model: 'strix lc',
+			series: 'rx6800xt',
+            url: 'https://www.steg-electronics.ch/fr/product/asus-rog-strix-lc-radeon-rx-6800-xt-oc-gaming-16gb-27857186'
+		}, 		
+		{
+			brand: 'gigabyte',
+			model: 'aorus master',
+			series: 'rx6800xt',
+            url: 'https://www.steg-electronics.ch/fr/product/gigabyte-aorus-radeon-rx-6800-xt-master-16gb-28054460'
+		}					
 	],
 	name: 'steg'
 };
