@@ -76,7 +76,13 @@ export const Brack: Store = {
 			model: 'ventus 3x',
 			series: '3060',
             url: 'https://www.brack.ch/fr/msi-carte-graphique-geforce-rtx3060-ventus-3x-12-gb-1186350'
-        },		
+        },	
+		{
+			brand: 'gigabyte',
+			model: 'vision oc',
+			series: '3060',
+            url: 'https://www.brack.ch/fr/gigabyte-carte-graphique-geforce-rtx3060-vision-oc-12-gb-1186539'
+        },			
 		//3060ti
 		{
 			brand: 'palit',
