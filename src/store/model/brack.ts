@@ -174,7 +174,13 @@ export const Brack: Store = {
 			model: 'gaming oc',
 			series: '3080',
             url: 'https://www.brack.ch/fr/gigabyte-carte-graphique-geforce-rtx3080-gaming-oc-10gb-1118842'
-        },											
+        },	
+		{
+			brand: 'palit',
+			model: 'gaming pro',
+			series: '3080',
+            url: 'https://www.brack.ch/fr/palit-carte-graphique-geforce-rtx3080-gaming-pro-10gb-1112208'
+        },															
 		//3090
 		{
 			brand: 'msi',
