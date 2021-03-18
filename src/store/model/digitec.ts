@@ -582,6 +582,61 @@ export const Digitec: Store = {
 			series: '3060ti',
             url: 'https://www.digitec.ch/en/s1/product/14131769'
 		},
+		//rx6700xt
+		{
+			brand: 'asus',
+			model: 'amd reference',
+			series: '6700xt',
+            url: 'https://www.digitec.ch/en/s1/product/15300602'
+		},	
+		{
+			brand: 'gigabyte',
+			model: 'amd reference',
+			series: '6700xt',
+            url: 'https://www.digitec.ch/en/s1/product/15301189'
+		},	
+		{
+			brand: 'sapphire',
+			model: 'gaming',
+			series: '6700xt',
+            url: 'https://www.digitec.ch/en/s1/product/15059559'
+		},	
+		{
+			brand: 'asus',
+			model: 'strix',
+			series: '6700xt',
+            url: 'https://www.digitec.ch/en/s1/product/15300518'
+		},	
+		{
+			brand: 'asus',
+			model: 'dual',
+			series: '6700xt',
+            url: 'https://www.digitec.ch/en/s1/product/15300540'
+		},	
+		{
+			brand: 'asus',
+			model: 'tuf',
+			series: '6700xt',
+            url: 'https://www.digitec.ch/en/s1/product/15300561'
+		},	
+		{
+			brand: 'gigabyte',
+			model: 'aorus',
+			series: '6700xt',
+            url: 'https://www.digitec.ch/en/s1/product/15301182'
+		},	
+		{
+			brand: 'gigabyte',
+			model: 'gaming oc',
+			series: '6700xt',
+            url: 'https://www.digitec.ch/en/s1/product/15301187'
+		},	
+		{
+			brand: 'gigabyte',
+			model: 'eagle',
+			series: '6700xt',
+            url: 'https://www.digitec.ch/en/s1/product/15301188'
+		},		
 		//rx6800xt
 		{
 			brand: 'sapphire',
