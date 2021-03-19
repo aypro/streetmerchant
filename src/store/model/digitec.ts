@@ -582,7 +582,7 @@ export const Digitec: Store = {
 			series: '3060ti',
             url: 'https://www.digitec.ch/en/s1/product/14131769'
 		},
-		//rxrx6700xt
+		//rx6700xt
 		{
 			brand: 'asus',
 			model: 'amd reference',
