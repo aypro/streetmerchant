@@ -156,7 +156,13 @@ export const Brack: Store = {
 			model: 'suprim x',
 			series: '3070',
             url: 'https://www.brack.ch/fr/msi-carte-graphique-geforce-rtx3070-suprime-x-8-gb-1145740'
-        },		
+        },	
+		{
+			brand: 'asus',
+			model: 'strix',
+			series: '3070',
+            url: 'https://www.brack.ch/fr/asus-rog-carte-graphique-rog-strix-geforce-rtx3070-8g-gaming-1140759'
+        },			
 		{//3080
 			brand: 'asus',
 			model: 'strix',

@@ -215,7 +215,7 @@ export const Digitec: Store = {
 			model: 'eagle',
 			series: '3070',
             url: 'https://www.digitec.ch/en/s1/product/13894876'
-        }, 																																																	 			
+        },		 			
 		{
 			brand: 'msi',
 			model: 'gaming trio',
