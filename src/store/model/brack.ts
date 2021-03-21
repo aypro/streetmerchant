@@ -1,8 +1,8 @@
 import {Store} from './store';
 
 export const Brack: Store = {
-	minPageSleep: 30000,
-	maxPageSleep: 60000,
+	/*minPageSleep: 30000,
+	maxPageSleep: 60000,*/
 	currency: 'CHF',
 	labels: {
 		inStock:
