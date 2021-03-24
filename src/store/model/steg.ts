@@ -107,12 +107,12 @@ export const Steg: Store = {
 			series: '3080',
             url: 'https://www.steg-electronics.ch/fr/product/inno3d-geforce-rtx-3080-twin-x2-oc-10g-27575884'
         }
-		,{
+/* 		,{
 			brand: 'msi',
 			model: 'ventus 3x oc',
 			series: '3080',
             url: 'https://www.steg-electronics.ch/fr/product/msi-geforce-rtx-3080-ventus-3x-oc-10g-27554443'
-        }
+        } */
 		,{
 			brand: 'asus',
 			model: 'tuf',

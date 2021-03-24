@@ -119,6 +119,12 @@ export const Brack: Store = {
         },
 		{
 			brand: 'asus',
+			model: 'tuf',
+			series: '3070',
+            url: 'https://www.brack.ch/fr/asus-carte-graphique-tuf-geforce-rtx3070-8g-1154523'
+        },			
+		{
+			brand: 'asus',
 			model: 'tuf oc',
 			series: '3070',
             url: 'https://www.brack.ch/fr/asus-carte-graphique-tuf-geforce-rtx-3070-o8g-1121537'
@@ -171,6 +177,12 @@ export const Brack: Store = {
 			series: '3080',
             url: 'https://www.brack.ch/fr/asus-rog-grafikkarte-geforce-rtx3080-10g-gaming-1113386'
         },
+		{
+			brand: 'asus',
+			model: 'tuf oc',
+			series: '3080',
+            url: 'https://www.brack.ch/fr/asus-carte-graphique-tuf-geforce-rtx-3080-o10g-gaming-1113381'
+        },		
 		{
 			brand: 'msi',
 			model: 'ventus 3x oc',
