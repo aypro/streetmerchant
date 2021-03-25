@@ -7,6 +7,13 @@ export const Steg: Store = {
 			container: '.generalPrice .sm-flex-item',
 			euroFormat: true
         },
+		inStock:[
+			{
+				container: '.avaText',
+				text: ['Livraison']
+			}
+		]
+		,
 		outOfStock:[
 			{
 				container: '.availabilityInfo',
