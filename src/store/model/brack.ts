@@ -91,7 +91,13 @@ export const Brack: Store = {
 			model: 'dual',
 			series: '3060ti',
             url: 'https://www.brack.ch/fr/palit-grafikkarte-geforce-rtx3060-ti-dual-8-gb-1137404'
-        },							
+        },	
+		{
+			brand: 'asus',
+			model: 'tuf oc',
+			series: '3060ti',
+            url: 'https://www.brack.ch/fr/asus-carte-graphique-tuf-geforce-rtx3060ti-o8g-gaming-1136125'
+        },				
 		//3070
 		{
 			brand: 'palit',
@@ -200,14 +206,20 @@ export const Brack: Store = {
 			model: 'gaming pro',
 			series: '3080',
             url: 'https://www.brack.ch/fr/palit-carte-graphique-geforce-rtx3080-gaming-pro-10gb-1112208'
-        },															
+        }															
 		//3090
-		{
+		,{
 			brand: 'msi',
 			model: 'suprim x',
 			series: '3090',
-            url: 'https://www.brack.ch/fr/msi-carte-graphique-geforce-rtx3090-suprim-x-24-gb-1145736	'
-        }						
+            url: 'https://www.brack.ch/fr/msi-carte-graphique-geforce-rtx3090-suprim-x-24-gb-1145736'
+        }
+		,{
+			brand: 'asus',
+			model: 'tuf',
+			series: '3090',
+            url: 'https://www.brack.ch/fr/asus-carte-graphique-tuf-geforce-rtx-3090-o24g-gaming-1113383'
+        }								
 	],
 	name: 'brack'
 };
