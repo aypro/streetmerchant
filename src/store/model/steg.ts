@@ -11,7 +11,11 @@ export const Steg: Store = {
 			{
 				container: '.avaText',
 				text: ['Livraison']
-			}
+			},
+			{
+				container: '.avaText',
+				text: ['Expédition']
+			}			
 		]
 		,
 		outOfStock:[
