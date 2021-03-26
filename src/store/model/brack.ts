@@ -225,7 +225,13 @@ export const Brack: Store = {
 			model: 'tuf',
 			series: '3090',
             url: 'https://www.brack.ch/fr/asus-carte-graphique-tuf-geforce-rtx-3090-o24g-gaming-1113383'
-        }								
+        }
+		,{
+			brand: 'palit',
+			model: 'gamerock oc',
+			series: '3090',
+            url: 'https://www.brack.ch/fr/palit-carte-graphique-geforce-rtx3090game-rock-oc-24-gb-1136084'
+        }			
 	],
 	name: 'brack'
 };
