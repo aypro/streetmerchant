@@ -206,7 +206,13 @@ export const Brack: Store = {
 			model: 'gaming pro',
 			series: '3080',
             url: 'https://www.brack.ch/fr/palit-carte-graphique-geforce-rtx3080-gaming-pro-10gb-1112208'
-        }															
+        },	
+		{
+			brand: 'asus',
+			model: 'strix',
+			series: '3080',
+            url: 'https://www.brack.ch/fr/asus-rog-carte-graphique-rog-strix-geforce-rtx3080-o10g-weiss-1158818'
+        }													
 		//3090
 		,{
 			brand: 'msi',
