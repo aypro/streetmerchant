@@ -49,7 +49,7 @@ export const Onlyshop: Store = {
 			series: 'ryzen5600',
             url: 'https://www.onlyshop.ch/en/products/1077971'
         },  		
-		{
+		{//3080
 			brand: 'asus',
 			model: 'tuf',
             series: '3080',
@@ -180,7 +180,61 @@ export const Onlyshop: Store = {
 			model: 'ekwb',
             series: '3080',
             url: 'https://www.onlyshop.ch/en/products/1108981'
-        } 		 	 				                                                                                                                                                                                                                                                                                                                                                                                                                 
+        },//3060ti 		 	 			
+		{
+			brand: 'asus',
+			model: 'dual',
+            series: '3060ti',
+            url: 'https://www.onlyshop.ch/en/products/1117807'
+        },
+		{
+			brand: 'asus',
+			model: 'dual oc',
+            series: '3060ti',
+            url: 'https://www.onlyshop.ch/en/products/1117805'
+        },
+		{
+			brand: 'asus',
+			model: 'dual',
+            series: '3060ti',
+            url: 'https://www.onlyshop.ch/en/products/1095745'
+        },
+		{
+			brand: 'asus',
+			model: 'dual oc',
+            series: '3060ti',
+            url: 'https://www.onlyshop.ch/en/products/1095743'
+        },
+		{
+			brand: 'asus',
+			model: 'tuf',
+            series: '3060ti',
+            url: 'https://www.onlyshop.ch/en/products/1095741'
+        },
+		{
+			brand: 'asus',
+			model: 'tuf oc',
+            series: '3060ti',
+            url: 'https://www.onlyshop.ch/en/products/1095739'
+        },
+		{
+			brand: 'asus',
+			model: 'strix oc',
+            series: '3060ti',
+            url: 'https://www.onlyshop.ch/en/products/1095737'
+        },
+		{
+			brand: 'asus',
+			model: 'strix',
+            series: '3060ti',
+            url: 'https://www.onlyshop.ch/en/products/1095735'
+        },
+		{
+			brand: 'zotac',
+			model: 'twin edge',
+            series: '3060ti',
+            url: 'https://www.onlyshop.ch/en/products/1088341'
+        },																
 	],
 	name: 'onlyshop'
 };
