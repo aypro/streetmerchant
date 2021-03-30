@@ -71,6 +71,12 @@ export const Digitec: Store = {
 			series: '3060',
             url: 'https://www.digitec.ch/en/s1/product/14784186'
         },
+		{
+			brand: 'zotac',
+			model: 'twin edge oc',
+			series: '3060',
+            url: 'https://www.digitec.ch/en/s1/product/14884788'
+        },		
 		//3070
 		{
 			brand: 'asus',
