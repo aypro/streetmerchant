@@ -30,10 +30,28 @@ export const Digitec: Store = {
         }, 		
 		//3060
 		{
+			brand: 'evga',
+			model: 'xc gaming',
+			series: '3060',
+            url: 'https://www.digitec.ch/en/s1/product/14985153'
+        },		
+		{
 			brand: 'gigabyte',
 			model: 'eagle oc',
 			series: '3060',
             url: 'https://www.digitec.ch/en/s1/product/14788295'
+        },
+		{
+			brand: 'gigabyte',
+			model: 'vision oc',
+			series: '3060',
+            url: 'https://www.digitec.ch/en/s1/product/14908651'
+        },
+		{
+			brand: 'kfa2',
+			model: 'sg oc',
+			series: '3060',
+            url: 'https://www.digitec.ch/en/s1/product/14888803'
         },
 		{
 			brand: 'msi',
