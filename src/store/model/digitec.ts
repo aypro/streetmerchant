@@ -97,6 +97,12 @@ export const Digitec: Store = {
         },		
 		//3070
 		{
+			brand: 'kfa2',
+			model: 'sg oc',
+			series: '3070',
+            url: 'https://www.digitec.ch/en/s1/product/14594374'
+        },
+		{
 			brand: 'asus',
 			model: 'dual',
 			series: '3070',
