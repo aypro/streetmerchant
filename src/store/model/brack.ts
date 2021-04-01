@@ -98,7 +98,13 @@ export const Brack: Store = {
 			series: '3060ti',
             url: 'https://www.brack.ch/fr/asus-carte-graphique-tuf-geforce-rtx3060ti-o8g-gaming-1136125'
         },				
-		//3070
+		//3070		
+		{
+			brand: 'gainward',
+			model: 'phoenix',
+			series: '3070',
+            url: 'https://www.brack.ch/fr/gainward-carte-graphique-geforce-rtx3070-phoenix-8-gb-1137451'
+        },
 		{
 			brand: 'palit',
 			model: 'gaming pro',
@@ -176,7 +182,13 @@ export const Brack: Store = {
 			model: 'strix',
 			series: '3070',
             url: 'https://www.brack.ch/fr/asus-rog-carte-graphique-rog-strix-geforce-rtx3070-8g-gaming-1140759'
-        },			
+        },	
+		{
+			brand: 'gainward',
+			model: 'phantom gaming',
+			series: '3070',
+            url: 'https://www.brack.ch/fr/gainward-carte-graphique-geforce-rtx3070-phantom-8-gb-1140111'
+        },				
 		{//3080
 			brand: 'asus',
 			model: 'strix',
