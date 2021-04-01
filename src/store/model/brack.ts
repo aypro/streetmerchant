@@ -97,7 +97,13 @@ export const Brack: Store = {
 			model: 'tuf oc',
 			series: '3060ti',
             url: 'https://www.brack.ch/fr/asus-carte-graphique-tuf-geforce-rtx3060ti-o8g-gaming-1136125'
-        },				
+        },	
+		{
+			brand: 'msi',
+			model: 'ventus 3x oc',
+			series: '3060ti',
+            url: 'https://www.brack.ch/fr/msi-carte-graphique-geforce-rtx3060-ti-ventus-3x-oc-8-gb-1151393'
+        },						
 		//3070		
 		{
 			brand: 'gainward',
@@ -243,7 +249,13 @@ export const Brack: Store = {
 			model: 'gamerock oc',
 			series: '3090',
             url: 'https://www.brack.ch/fr/palit-carte-graphique-geforce-rtx3090game-rock-oc-24-gb-1136084'
-        }			
+        }	
+		,{
+			brand: 'gainward',
+			model: 'phoenix',
+			series: '3090',
+            url: 'https://www.brack.ch/fr/gainward-carte-graphique-geforce-rtx3090-phoenix-1113043'
+        }				
 	],
 	name: 'brack'
 };
