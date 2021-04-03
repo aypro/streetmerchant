@@ -30,6 +30,12 @@ export const Digitec: Store = {
         }, 		
 		//3060
 		{
+			brand: 'asus',
+			model: 'dual',
+			series: '3060',
+            url: 'https://www.digitec.ch/en/s1/product/14889206'
+        },		
+		{
 			brand: 'evga',
 			model: 'xc gaming',
 			series: '3060',
@@ -666,7 +672,13 @@ export const Digitec: Store = {
 			model: 'eagle',
 			series: 'rx6700xt',
             url: 'https://www.digitec.ch/en/s1/product/15301188'
-		},		
+		},	
+		{
+			brand: 'sapphire',
+			model: 'nitro oc',
+			series: 'rx6700xt',
+            url: 'https://www.digitec.ch/en/s1/product/15059558'
+		},			
 		//rx6800xt
 		{
 			brand: 'sapphire',
