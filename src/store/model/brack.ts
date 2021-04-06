@@ -255,7 +255,13 @@ export const Brack: Store = {
 			model: 'phoenix',
 			series: '3090',
             url: 'https://www.brack.ch/fr/gainward-carte-graphique-geforce-rtx3090-phoenix-1113043'
-        }				
+        }	
+		,{
+			brand: 'asus',
+			model: 'strix oc',
+			series: '3090',
+            url: 'https://www.brack.ch/fr/asus-rog-carte-graphique-asus-rog-strix-rtx3090-o24g-gaming-1113387'
+        }								
 	],
 	name: 'brack'
 };
