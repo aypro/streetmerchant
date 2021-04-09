@@ -190,6 +190,18 @@ export const Brack: Store = {
             url: 'https://www.brack.ch/fr/asus-rog-carte-graphique-rog-strix-geforce-rtx3070-8g-gaming-1140759'
         },	
 		{
+			brand: 'asus',
+			model: 'strix oc white',
+			series: '3070',
+            url: 'https://www.brack.ch/fr/asus-rog-carte-graphique-rog-strix-geforce-rtx3070-o8g-white-1158728'
+        },	
+		{
+			brand: 'asus',
+			model: 'dual',
+			series: '3070',
+            url: 'https://www.brack.ch/fr/asus-carte-graphique-asus-dual-rtx3070-8g-1133905'
+        },			
+		{
 			brand: 'gainward',
 			model: 'phantom gaming',
 			series: '3070',
