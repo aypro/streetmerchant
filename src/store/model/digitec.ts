@@ -53,12 +53,12 @@ export const Digitec: Store = {
 			series: '3060',
             url: 'https://www.digitec.ch/en/s1/product/14908651'
         },
-		{
+		/*{
 			brand: 'kfa2',
 			model: 'sg oc',
 			series: '3060',
             url: 'https://www.digitec.ch/en/s1/product/14888803'
-        },
+        },*/
 		{
 			brand: 'msi',
 			model: 'ventus 3x',
@@ -258,6 +258,24 @@ export const Digitec: Store = {
 			series: '3070',
             url: 'https://www.digitec.ch/en/s1/product/13799116'
         }, 	
+		{
+			brand: 'msi',
+			model: 'suprim x',
+			series: '3070',
+            url: 'https://www.digitec.ch/en/s1/product/14370973'
+        }, 		
+		{
+			brand: 'kfa2',
+			model: 'sg oc',
+			series: '3070',
+            url: 'https://www.digitec.ch/en/s1/product/14594373'
+        }, 		
+		{
+			brand: 'asus',
+			model: 'tuf',
+			series: '3070',
+            url: 'https://www.digitec.ch/en/s1/product/14518026'
+        }, 				
 		//5600x
 		{
 			brand: 'amd',
