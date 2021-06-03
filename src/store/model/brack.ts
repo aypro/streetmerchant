@@ -273,6 +273,18 @@ export const Brack: Store = {
 			model: 'strix oc',
 			series: '3090',
             url: 'https://www.brack.ch/fr/asus-rog-carte-graphique-asus-rog-strix-rtx3090-o24g-gaming-1113387'
+        }	
+		,{
+			brand: 'asus',
+			model: 'tuf',
+			series: '3090',
+            url: 'https://www.brack.ch/fr/asus-carte-graphique-tuf-geforce-rtx-3080ti-o12g-gaming-1224737'
+        },
+		{
+			brand: 'asus',
+			model: 'strix',
+			series: '3090',
+            url: 'https://www.brack.ch/fr/asus-rog-carte-graphique-geforce-rtx3080ti-o12g-gaming-1224738'
         }								
 	],
 	name: 'brack'
