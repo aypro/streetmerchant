@@ -53,12 +53,12 @@ export const Digitec: Store = {
 			series: '3060',
             url: 'https://www.digitec.ch/en/s1/product/14908651'
         },
-		{
+		/*{
 			brand: 'kfa2',
 			model: 'sg oc',
 			series: '3060',
             url: 'https://www.digitec.ch/en/s1/product/14888803'
-        },
+        },*/
 		{
 			brand: 'msi',
 			model: 'ventus 3x',
