@@ -759,7 +759,80 @@ export const Digitec: Store = {
 			model: 'gaming',
 			series: 'rx6900xt',
             url: 'https://www.digitec.ch/fr/s1/product/14406423'
-		}		
+		},	
+		//3080ti	
+		{
+			brand: 'evga',
+			model: 'ftw3 ultra',
+			series: '3080ti',
+            url: 'https://www.digitec.ch/fr/s1/product/15950007'
+		},	
+		{
+			brand: 'evga',
+			model: 'ftw3',
+			series: '3080ti',
+            url: 'https://www.digitec.ch/fr/s1/product/15950246'
+		},
+		{
+			brand: 'evga',
+			model: 'xc3 ultra',
+			series: '3080ti',
+            url: 'https://www.digitec.ch/fr/s1/product/15950261'
+		},	
+		{
+			brand: 'evga',
+			model: 'ftw3 ultra',
+			series: '3080ti',
+            url: 'https://www.digitec.ch/fr/s1/product/15950300'
+		},
+		{
+			brand: 'evga',
+			model: 'xc3 black',
+			series: '3080ti',
+            url: 'https://www.digitec.ch/fr/s1/product/15950301'
+		},
+		{
+			brand: 'msi',
+			model: 'gaming x trio',
+			series: '3080ti',
+            url: 'https://www.digitec.ch/fr/s1/product/15950524'
+		},
+		{
+			brand: 'msi',
+			model: 'suprim x',
+			series: '3080ti',
+            url: 'https://www.digitec.ch/fr/s1/product/15950523'
+		},
+		{
+			brand: 'msi',
+			model: 'ventus 3x oc',
+			series: '3080ti',
+            url: 'https://www.digitec.ch/fr/s1/product/15950525'
+		},
+		{
+			brand: 'asus',
+			model: 'strix oc',
+			series: '3080ti',
+            url: 'https://www.digitec.ch/fr/s1/product/15950304'
+		},
+		{
+			brand: 'asus',
+			model: 'strix',
+			series: '3080ti',
+            url: 'https://www.digitec.ch/fr/s1/product/15950453'
+		},
+		{
+			brand: 'asus',
+			model: 'gaming oc',
+			series: '3080ti',
+            url: 'https://www.digitec.ch/fr/s1/product/15950454'
+		},
+		{
+			brand: 'asus',
+			model: 'tuf',
+			series: '3080ti',
+            url: 'https://www.digitec.ch/fr/s1/product/15950455'
+		}																						
 	],
 	name: 'digitec'
 };
