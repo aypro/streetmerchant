@@ -447,7 +447,13 @@ export const Digitec: Store = {
 			model: 'ftw3 ultra',
 			series: '3080',
             url: 'https://www.digitec.ch/fr/s1/product/13752263'
-		},      
+		}, 
+		{
+			brand: 'pny',
+			model: 'xlr8 revel',
+			series: '3080',
+            url: 'https://www.digitec.ch/fr/s1/product/15969325'
+		}, 		
 		//3090
 		{
 			brand: 'asus',
