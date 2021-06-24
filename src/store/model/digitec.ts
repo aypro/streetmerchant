@@ -496,7 +496,25 @@ export const Digitec: Store = {
 			model: 'xc3',
 			series: '3090',
             url: 'https://www.digitec.ch/fr/s1/product/13689631'
-		},      
+		},    
+		{
+			brand: 'msi',
+			model: 'suprim x',
+			series: '3090',
+            url: 'https://www.digitec.ch/fr/s1/product/14370978'
+		}, 		
+		{
+			brand: 'gainward',
+			model: 'phantom gaming',
+			series: '3090',
+            url: 'https://www.digitec.ch/fr/s1/product/14174533'
+		},   		 
+		{
+			brand: 'evga',
+			model: 'xc3 ultra',
+			series: '3090',
+            url: 'https://www.digitec.ch/fr/s1/product/13689641'
+		},  		 
 		{
 			brand: 'gainward',
 			model: 'phoenix gs',
@@ -551,6 +569,12 @@ export const Digitec: Store = {
 			series: '3090',
             url: 'https://www.digitec.ch/fr/s1/product/13788119'
 		},      
+		{
+			brand: 'asus',
+			model: 'ekwb',
+			series: '3090',
+            url: 'https://www.digitec.ch/fr/s1/product/14132494'
+		},    		
 		{
 			brand: 'zotac',
 			model: 'trinity',
@@ -838,7 +862,25 @@ export const Digitec: Store = {
 			model: 'tuf',
 			series: '3080ti',
             url: 'https://www.digitec.ch/fr/s1/product/15950455'
-		}																						
+		},																		//3070ti	
+		{
+			brand: 'msi',
+			model: 'gaming x trio',
+			series: '3070ti',
+            url: 'https://www.digitec.ch/fr/s1/product/16006611'
+		},
+		{
+			brand: 'asus',
+			model: 'strix oc',
+			series: '3070ti',
+            url: 'https://www.digitec.ch/fr/s1/product/16001074'
+		},	
+		{
+			brand: 'msi',
+			model: 'suprim x',
+			series: '3070ti',
+            url: 'https://www.digitec.ch/fr/s1/product/16006610'
+		},							
 	],
 	name: 'digitec'
 };
