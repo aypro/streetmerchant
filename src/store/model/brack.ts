@@ -286,7 +286,14 @@ export const Brack: Store = {
 			model: 'strix',
 			series: '3080ti',
             url: 'https://www.brack.ch/fr/asus-rog-carte-graphique-geforce-rtx3080ti-o12g-gaming-1224738'
-        }								
+        },	
+		//3070ti		
+		{
+			brand: 'gainward',
+			model: 'phoenix',
+			series: '3070ti',
+            url: 'https://www.brack.ch/fr/gainward-carte-graphique-geforce-rtx3070-ti-phoenix-8-gb-1227055'
+        }							
 	],
 	name: 'brack'
 };
