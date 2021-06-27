@@ -274,6 +274,12 @@ export const Brack: Store = {
 			series: '3090',
             url: 'https://www.brack.ch/fr/asus-rog-carte-graphique-asus-rog-strix-rtx3090-o24g-gaming-1113387'
         }
+		,{
+			brand: 'gainward',
+			model: 'phantom gaming',
+			series: '3090',
+            url: 'https://www.brack.ch/fr/gainward-carte-graphique-geforce-rtx3090-phantom-1137450'
+        }		
 		//3080Ti	
 		,{
 			brand: 'asus',
