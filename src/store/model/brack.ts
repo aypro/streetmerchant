@@ -242,7 +242,13 @@ export const Brack: Store = {
 			model: 'strix',
 			series: '3080',
             url: 'https://www.brack.ch/fr/asus-rog-carte-graphique-rog-strix-geforce-rtx3080-o10g-weiss-1158818'
-        }													
+        },	
+		{
+			brand: 'gainward',
+			model: 'phantom gaming',
+			series: '3080',
+            url: 'https://www.brack.ch/fr/gainward-carte-graphique-geforce-rtx3080-phantom-1132594'
+        }														
 		//3090
 		,{
 			brand: 'msi',
@@ -299,7 +305,13 @@ export const Brack: Store = {
 			model: 'phoenix',
 			series: '3070ti',
             url: 'https://www.brack.ch/fr/gainward-carte-graphique-geforce-rtx3070-ti-phoenix-8-gb-1227055'
-        }							
+        }	
+		,{
+			brand: 'palit',
+			model: 'gaming pro',
+			series: '3070ti',
+            url: 'https://www.brack.ch/fr/palit-carte-graphique-geforce-rtx3070-ti-gaming-pro-8-gb-1228734'
+        }				
 	],
 	name: 'brack'
 };
