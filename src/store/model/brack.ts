@@ -214,6 +214,18 @@ export const Brack: Store = {
             url: 'https://www.brack.ch/fr/asus-rog-grafikkarte-geforce-rtx3080-10g-gaming-1113386'
         },
 		{
+			brand: 'msi',
+			model: 'gaming x',
+			series: '3080',
+            url: 'https://www.brack.ch/fr/msi-carte-graphique-geforce-rtx3080-gaming-x-trio-10gb-1118830'
+        },		
+		{
+			brand: 'msi',
+			model: 'suprim x',
+			series: '3080',
+            url: 'https://www.brack.ch/fr/msi-carte-graphique-geforce-rtx3080-suprime-x-10-gb-1145739'
+        },		
+		{
 			brand: 'asus',
 			model: 'tuf oc',
 			series: '3080',
