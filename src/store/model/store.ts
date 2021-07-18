@@ -42,13 +42,14 @@ export type Series =
   | '3060'
   | '3060ti'
   | '3070'
-  | '3070ti'  
+  | '3070ti'
   | '3080'
-  | '3080ti'  
+  | '3080ti'
   | '3090'
   | 'darkhero'
   | 'rx6700xt'
   | 'rx6800'
+  | 'rx6700xt'
   | 'rx6800xt'
   | 'rx6900xt'
   | 'ryzen3200g'
@@ -79,12 +80,15 @@ export type Model =
   | 'amp extreme holo'
   | 'amp holo'
   | 'amp white'
+  | 'aorus elite'
   | 'aorus master'
   | 'aorus master type-c'
   | 'aorus xtreme'
   | 'aorus xtreme waterforce'
   | 'aorus xtreme waterforce wb'
   | 'aorus'
+  | 'aorus box'
+  | 'articstorm'
   | 'battle-ax'
   | 'challenger'
   | 'challenger pro'
@@ -97,6 +101,10 @@ export type Model =
   | 'eagle oc'
   | 'eagle'
   | 'ekwb'
+  | 'epic x'
+  | 'ex'
+  | 'ex gamer'
+  | 'ex oc'
   | 'founders edition'
   | 'ftw3'
   | 'ftw3 black'
@@ -106,6 +114,7 @@ export type Model =
   | 'gamerock'
   | 'gamerock oc'
   | 'gaming oc'
+  | 'gaming oc waterforce wb'
   | 'gaming oc pro'
   | 'gaming pro oc'
   | 'gaming pro'
@@ -114,14 +123,21 @@ export type Model =
   | 'gaming x trio'
   | 'gaming x'
   | 'gaming x3'
+  | 'gaming z trio'
+  | 'gaming x trio'
+  | 'gaming x'
+  | 'gaming x3'
+  | 'gaming z trio'
   | 'ghost'
   | 'ghost oc'
-  | 'suprim x'
-  | 'suprim'
   | 'gaming'
+  | 'hof'
+  | 'hof limited edition'
+  | 'hof premium'
   | 'hurricane'
   | 'ichill x2'
   | 'ichill x3'
+  | 'ichill x3 red'
   | 'ichill x4'
   | 'ichill frostbite'
   | 'igame advanced'
@@ -129,12 +145,24 @@ export type Model =
   | 'igame ultra oc'
   | 'igame vulcan oc'
   | 'jetstream'
+  | 'jetstream oc'
+  | 'kngpn hybrid'
   | 'ko oc'
   | 'ko'
+  | 'master'
+  | 'merc'
+  | 'merc core'
+  | 'merc ultra'
   | 'nitro+'
   | 'nitro+ se'
+  | 'nitro+ oc'
+  | 'nitro+ oc se'
   | 'nitro oc se'
   | 'nitro oc'
+  | 'oc'
+  | 'pegasus'
+  | 'pegasus oc'
+  | 'phantom'
   | 'phantom gaming'
   | 'phantom gs'
   | 'phoenix gs oc'
@@ -143,19 +171,25 @@ export type Model =
   | 'ps5 console'
   | 'ps5 digital'
   | 'pulse'
+  | 'pulse oc'
   | 'red devil'
   | 'red dragon'
   | 'sg oc'
   | 'sg'
-  | 'merc'
   | 'single fan'
+  | 'stormx oc'
   | 'strix lc'
+  | 'strix oc lc'
   | 'strix oc'
   | 'strix'
   | 'strix oc white'
   | 'strix white'
+  | 'suprim'
+  | 'suprim x'
   | 'taichi'
+  | 'taichi x oc'
   | 'trinity oc'
+  | 'trinity oc lhr'
   | 'trinity'
   | 'tuf oc'
   | 'tuf'
@@ -172,6 +206,10 @@ export type Model =
   | 'ventus 3x'
   | 'vision oc'
   | 'vision'
+  | 'x3'
+  | 'x3 oc'
+  | 'x trio'
+  | 'x3 oc'
   | 'xbox series s'
   | 'xbox series x'
   | 'xc black'
@@ -182,8 +220,12 @@ export type Model =
   | 'xc3'
   | 'xlr8 epic x'
   | 'xlr8 gaming'
+  | 'xlr8 gaming uprising epic x'
   | 'xlr8 revel'
-  | 'xlr8 uprising';
+  | 'xlr8 revel epic x'
+  | 'xlr8 uprising'
+  | 'xtreme'
+  | 'qick';
 
 export type Link = {
   brand: Brand;
@@ -198,11 +240,19 @@ export type Link = {
   url: string;
 };
 
+export type CaptchaHandlerElements = {
+  challenge: string;
+  input: string;
+  submit: string;
+  captureType?: string;
+};
+
 export type LabelQuery = Element[] | Element | string[];
 
 export type Labels = {
   bannedSeller?: LabelQuery;
   captcha?: LabelQuery;
+  captchaHandler?: CaptchaHandlerElements;
   container?: string;
   inStock?: LabelQuery;
   outOfStock?: LabelQuery;
@@ -230,6 +280,8 @@ export type Store = {
   linksBuilder?: {
     builder: (docElement: cheerio.Cheerio, series: Series) => Link[];
     ttl?: number;
+    waitUntil?: PuppeteerLifeCycleEvent;
+    waitForSelector?: string;
     urls: Array<{series: Series; url: string | string[]}>;
   };
   labels: Labels;

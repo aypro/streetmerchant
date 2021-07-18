@@ -5,7 +5,7 @@ export const Mediamarkt: Store = {
   currency: '€',
   labels: {
     captcha: {
-      container: 'p',
+      container: 'body',
       text: ['Das ging uns leider zu schnell.'],
     },
     maxPrice: {
@@ -281,6 +281,30 @@ export const Mediamarkt: Store = {
       model: 'ps5 console',
       series: 'sonyps5c',
       url: 'https://www.mediamarkt.de/de/product/-2661938.html',
+    },
+    {
+      brand: 'sony',
+      model: 'ps5 console',
+      series: 'sonyps5c',
+      url: 'https://www.mediamarkt.de/de/product/_sony-playstation%C2%AE5-hd-kamera-2715822.html',
+    },
+    {
+      brand: 'sony',
+      model: 'ps5 console',
+      series: 'sonyps5c',
+      url: 'https://www.mediamarkt.de/de/product/_sony-ps5-assassins-creed-valhalla-2715828.html',
+    },
+    {
+      brand: 'sony',
+      model: 'ps5 console',
+      series: 'sonyps5c',
+      url: 'https://www.mediamarkt.de/de/product/_sony-ps5-marvel-s-spider-man-miles-morales-2715827.html',
+    },
+    {
+      brand: 'sony',
+      model: 'ps5 console',
+      series: 'sonyps5c',
+      url: 'https://www.mediamarkt.de/de/product/_sony-ps5-marvels-spider-man-miles-morales-ultimate-edition-2715826.html',
     },
     {
       brand: 'sony',
