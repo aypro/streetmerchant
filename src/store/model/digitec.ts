@@ -7,11 +7,11 @@ export const Digitec: Store = {
 			{
 	            container: '#secondHand',
             	text: ['Buy secondhand']
-        	},
+        	}/*,
 			{
 	            container: '.availabilityText',
             	text: ['Delivered']
-        	}			
+        	}	*/		
 		]
 	},
 	links: [
@@ -53,12 +53,12 @@ export const Digitec: Store = {
 			series: '3060',
             url: 'https://www.digitec.ch/fr/s1/product/14908651'
         },
-		/*{
+		{
 			brand: 'kfa2',
 			model: 'sg oc',
 			series: '3060',
             url: 'https://www.digitec.ch/fr/s1/product/14888803'
-        },*/
+        },
 		{
 			brand: 'msi',
 			model: 'ventus 3x',
@@ -275,7 +275,14 @@ export const Digitec: Store = {
 			model: 'tuf',
 			series: '3070',
             url: 'https://www.digitec.ch/fr/s1/product/14518026'
-        }, 				
+        }, 		
+		//5900x
+		{
+			brand: 'amd',
+			model: '5900x',
+			series: 'ryzen5900',
+			url: 'https://www.digitec.ch/fr/s1/product/13987917'
+        }, 		
 		//5600x
 		{
 			brand: 'amd',
@@ -862,7 +869,7 @@ export const Digitec: Store = {
 			model: 'tuf',
 			series: '3080ti',
             url: 'https://www.digitec.ch/fr/s1/product/15950455'
-		},																		//3070ti	
+		},//3070ti	
 		{
 			brand: 'msi',
 			model: 'gaming x trio',
