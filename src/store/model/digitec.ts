@@ -303,9 +303,8 @@ export const Digitec: Store = {
 			series: 'sonyps5c',
             url: 'https://www.digitec.ch/en/s1/product/12664145'
         },
-	
 		//3080				         
-		{
+/* 		{
 			brand: 'gigabyte',
 			model: 'eagle',
 			series: '3080',
@@ -461,7 +460,7 @@ export const Digitec: Store = {
 			series: '3080',
             url: 'https://www.digitec.ch/en/s1/product/15969325'
 		}, 		
-		//3090
+ */		//3090
 		{
 			brand: 'asus',
 			model: 'tuf',

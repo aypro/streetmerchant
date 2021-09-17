@@ -206,8 +206,14 @@ export const Brack: Store = {
 			model: 'phantom gaming',
 			series: '3070',
             url: 'https://www.brack.ch/fr/gainward-carte-graphique-geforce-rtx3070-phantom-8-gb-1140111'
-        },				
+        },
 		{//3080
+			brand: 'gainward',
+			model: 'phantom',
+			series: '3080',
+            url: 'https://www.brack.ch/fr/gainward-carte-graphique-geforce-rtx-3080-phantom-plus-10-gb-1263639'
+        },					
+		{
 			brand: 'asus',
 			model: 'strix',
 			series: '3080',
