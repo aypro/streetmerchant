@@ -212,7 +212,13 @@ export const Brack: Store = {
 			model: 'phantom',
 			series: '3080',
             url: 'https://www.brack.ch/fr/gainward-carte-graphique-geforce-rtx-3080-phantom-plus-10-gb-1263639'
-        },			
+        },	
+		/*{
+			brand: 'palit',
+			model: 'gamerock',
+			series: '3080',
+            url: 'https://www.brack.ch/fr/palit-carte-graphique-geforce-rtx3080-gamerock-10-gb-v1-lhr-1131763'
+        },*/				
 		{
 			brand: 'asus',
 			model: 'tuf',
@@ -272,7 +278,13 @@ export const Brack: Store = {
 			model: 'phantom gaming',
 			series: '3080',
             url: 'https://www.brack.ch/fr/gainward-carte-graphique-geforce-rtx3080-phantom-1132594'
-        }														
+        }							
+		,{
+			brand: 'gainward',
+			model: 'phoenix',
+			series: '3080',
+            url: 'https://www.brack.ch/fr/gainward-carte-graphique-geforce-rtx3080-phoenix-10-gb-v1-lhr-1112212	'
+        }									
 		//3090
 		,{
 			brand: 'msi',
