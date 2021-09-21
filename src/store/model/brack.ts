@@ -212,7 +212,13 @@ export const Brack: Store = {
 			model: 'phantom',
 			series: '3080',
             url: 'https://www.brack.ch/fr/gainward-carte-graphique-geforce-rtx-3080-phantom-plus-10-gb-1263639'
-        },					
+        },			
+		{
+			brand: 'asus',
+			model: 'tuf',
+			series: '3080',
+            url: 'https://www.brack.ch/fr/asus-carte-graphique-tuf-gaming-geforce-rtx-3080-v2-oc-10-gb-lhr-1231972'
+        },			
 		{
 			brand: 'asus',
 			model: 'strix',
