@@ -281,7 +281,7 @@ export const Digitec: Store = {
 			brand: 'amd',
 			model: '5900x',
 			series: 'ryzen5900',
-			url: 'https://www.digitec.ch/en/s1/product/13987917'
+			url: 'https://www.galaxus.ch/en/s1/product/13987917'
         }, 		
 		//5600x
 		{
@@ -295,13 +295,13 @@ export const Digitec: Store = {
 			brand: 'sony',
 			model: 'ps5 digital',
 			series: 'sonyps5de',
-            url: 'https://www.digitec.ch/en/s1/product/13329224'
+            url: 'https://www.galaxus.ch/en/s1/product/13329224'
 		},
 		{
 			brand: 'sony',
 			model: 'ps5 console',
 			series: 'sonyps5c',
-            url: 'https://www.digitec.ch/en/s1/product/12664145'
+            url: 'https://www.galaxus.ch/en/s1/product/12664145'
         },
 		//3080				         
 /* 		{
