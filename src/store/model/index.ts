@@ -105,6 +105,7 @@ import {MemoryExpress} from './memoryexpress';
 import {MicroCenter} from './microcenter';
 import {MightyApe} from './mightyape';
 import {Mindfactory} from './mindfactory';
+import {Microsoft} from './microsoft';
 import {Msy} from './msy';
 import {Multicom} from './multicom';
 import {Mwave} from './mwave';
@@ -175,6 +176,7 @@ import {logger} from '../../logger';
 import chalk from 'chalk';
 import {UltimaInformatica} from './utlimainformatica';
 import {XtremMedia} from './xtremmedia';
+import {MicrosoftCA} from './microsoft-ca';
 
 export const storeList = new Map([
   [AComPC.name, AComPC],
@@ -277,11 +279,13 @@ export const storeList = new Map([
   [Medimax.name, Medimax],
   [Megekko.name, Megekko],
   [Melectronics.name, Melectronics],  
+  [Microsoft.name, Microsoft],
   [Ldlc.name, Ldlc],
   [LdlcEs.name, LdlcEs],
   [Materiel.name, Materiel],
   [MemoryExpress.name, MemoryExpress],
   [MicroCenter.name, MicroCenter],
+  [MicrosoftCA.name, MicrosoftCA],
   [MightyApe.name, MightyApe],
   [Mindfactory.name, Mindfactory],
   [Msy.name, Msy],
