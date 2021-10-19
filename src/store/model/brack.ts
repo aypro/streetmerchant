@@ -103,6 +103,12 @@ export const Brack: Store = {
 			model: 'ventus 3x oc',
 			series: '3060ti',
             url: 'https://www.brack.ch/fr/msi-carte-graphique-geforce-rtx3060-ti-ventus-3x-oc-8-gb-1151393'
+        },		
+		{
+			brand: 'asus',
+			model: 'dual',
+			series: '3060ti',
+            url: 'https://www.brack.ch/fr/asus-carte-graphique-dual-geforce-rtx-3060-ti-v2-oc-8-gb-lhr-1231986'
         },						
 		//3070		
 		{
