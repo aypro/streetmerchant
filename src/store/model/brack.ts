@@ -289,8 +289,15 @@ export const Brack: Store = {
 			brand: 'gainward',
 			model: 'phoenix',
 			series: '3080',
-            url: 'https://www.brack.ch/fr/gainward-carte-graphique-geforce-rtx3080-phoenix-10-gb-v1-lhr-1112212	'
-        }									
+            url: 'https://www.brack.ch/fr/gainward-carte-graphique-geforce-rtx3080-phoenix-10-gb-v1-lhr-1112212'
+        }		
+						
+		,{
+			brand: 'asus',
+			model: 'strix',
+			series: '3080',
+            url: 'https://www.brack.ch/fr/asus-rog-carte-graphique-strix-geforce-rtx3080-o10g-white-v2-10-gb-lhr-1231968'
+        }					
 		//3090
 		,{
 			brand: 'msi',
