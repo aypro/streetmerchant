@@ -588,7 +588,7 @@ export const Digitec: Store = {
             url: 'https://www.digitec.ch/en/s1/product/13752152'
 		}, 
 		//3060ti     
-		{
+/* 		{
 			brand: 'msi',
 			model: 'ventus 3x oc',
 			series: '3060ti',
@@ -672,7 +672,7 @@ export const Digitec: Store = {
 			series: '3060ti',
             url: 'https://www.digitec.ch/en/s1/product/14131769'
 		},
-		//rx6700xt
+ */		//rx6700xt
 		{
 			brand: 'asus',
 			model: 'amd reference',

@@ -87,6 +87,12 @@ export const Brack: Store = {
         },			
 		//3060ti
 		{
+			brand: 'msi',
+			model: 'gaming x',
+			series: '3060ti',
+            url: 'https://www.brack.ch/fr/msi-carte-graphique-geforce-rtx-3060-ti-gaming-x-8-gb-lhr-1257342'
+        },		
+		{
 			brand: 'palit',
 			model: 'dual',
 			series: '3060ti',
