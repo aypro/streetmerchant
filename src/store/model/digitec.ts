@@ -102,7 +102,7 @@ export const Digitec: Store = {
             url: 'https://www.digitec.ch/en/s1/product/14884788'
         },		
 		//3070
-		{
+/* 		{
 			brand: 'kfa2',
 			model: 'sg oc',
 			series: '3070',
@@ -276,7 +276,7 @@ export const Digitec: Store = {
 			series: '3070',
             url: 'https://www.digitec.ch/en/s1/product/14518026'
         }, 		
-		//5900x
+ */		//5900x
 		{
 			brand: 'amd',
 			model: '5900x',

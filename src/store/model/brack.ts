@@ -87,6 +87,12 @@ export const Brack: Store = {
         },			
 		//3060ti
 		{
+			brand: 'asus',
+			model: 'dual',
+			series: '3060ti',
+            url: 'https://www.brack.ch/fr/asus-carte-graphique-geforce-dual-rtx-3060ti-mini-v2-8-gb-lhr-1279281'
+        },		
+		{
 			brand: 'msi',
 			model: 'gaming x',
 			series: '3060ti',
@@ -117,6 +123,12 @@ export const Brack: Store = {
             url: 'https://www.brack.ch/fr/asus-carte-graphique-dual-geforce-rtx-3060-ti-v2-oc-8-gb-lhr-1231986'
         },						
 		//3070		
+		{
+			brand: 'msi',
+			model: 'gaming z trio',
+			series: '3070',
+            url: 'https://www.brack.ch/fr/msi-carte-graphique-geforce-rtx-3070-gaming-z-trio-8-gb-lhr-1292291'
+        },		
 		{
 			brand: 'gainward',
 			model: 'phoenix',
@@ -354,7 +366,13 @@ export const Brack: Store = {
 			series: '3080ti',
             url: 'https://www.brack.ch/fr/asus-rog-carte-graphique-geforce-rtx3080ti-o12g-gaming-1224738'
         },	
-		//3070ti		
+		//3070ti	
+		{
+			brand: 'palit',
+			model: 'gaming pro',
+			series: '3070ti',
+            url: 'https://www.brack.ch/fr/palit-carte-graphique-geforce-rtx3070-ti-gaming-pro-8-gb-lhr-1228734'
+        },			
 		{
 			brand: 'gainward',
 			model: 'phoenix',
