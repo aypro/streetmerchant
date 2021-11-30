@@ -1,5 +1,24 @@
 # Changelog
 
+## [3.7.0](https://www.github.com/aypro/streetmerchant/compare/v3.6.0...v3.7.0) (2021-11-30)
+
+
+### Features
+
+* add SCREENSHOT_DIR config option ([#2801](https://www.github.com/aypro/streetmerchant/issues/2801)) ([fe99aa4](https://www.github.com/aypro/streetmerchant/commit/fe99aa476ccfdb73b29c45beaaa972ac419a39b4))
+* **coolmod:** add linksBuilder and update selectors ([#2803](https://www.github.com/aypro/streetmerchant/issues/2803)) ([f297e1d](https://www.github.com/aypro/streetmerchant/commit/f297e1d7d3d03ab57e2e5c4dcf150f0d44ed750d))
+* **equippr:** add links builder ([#2795](https://www.github.com/aypro/streetmerchant/issues/2795)) ([e631d80](https://www.github.com/aypro/streetmerchant/commit/e631d805fcc07f057b6ad3204497446fd6377223))
+* **store:** add Microsoft (CA) for Xbox X/S ([#2764](https://www.github.com/aypro/streetmerchant/issues/2764)) ([ca784c8](https://www.github.com/aypro/streetmerchant/commit/ca784c897845609afaa6c7efbc8024cb039229db))
+* **store:** add Microsoft for Xbox S/X ([#2738](https://www.github.com/aypro/streetmerchant/issues/2738)) ([d06d050](https://www.github.com/aypro/streetmerchant/commit/d06d050613cfc7e0710e14717dadbb6784552bef))
+
+
+### Bug Fixes
+
+* **discord:** add Discord.ClientOptions ([#2714](https://www.github.com/aypro/streetmerchant/issues/2714)) ([3787c54](https://www.github.com/aypro/streetmerchant/commit/3787c543964489fe5893ca6e6f4ac17593f310d5))
+* partial url regexp ([#2382](https://www.github.com/aypro/streetmerchant/issues/2382)) ([61af2a4](https://www.github.com/aypro/streetmerchant/commit/61af2a4325733463c918396868d313b7632bb310))
+* **terraform:** update IAM configuration for ECS deployment ([#2675](https://www.github.com/aypro/streetmerchant/issues/2675)) ([9c346e7](https://www.github.com/aypro/streetmerchant/commit/9c346e70fac17854d347dfbdbc238bfb0056c6a8))
+* **xbox:** false positive ([#2726](https://www.github.com/aypro/streetmerchant/issues/2726)) ([e5e8481](https://www.github.com/aypro/streetmerchant/commit/e5e84814379c0d777188b6e321edbe0b780ab3fd))
+
 ## [3.6.0](https://www.github.com/aypro/streetmerchant/compare/v3.5.0...v3.6.0) (2021-08-09)
 
 
