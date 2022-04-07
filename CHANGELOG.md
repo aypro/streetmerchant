@@ -1,5 +1,30 @@
 # Changelog
 
+## [3.7.0](https://github.com/aypro/streetmerchant/compare/v3.6.0...v3.7.0) (2022-04-07)
+
+
+### Features
+
+* add ldlc-italy and fixes ollo/hardware-planet ([#2903](https://github.com/aypro/streetmerchant/issues/2903)) ([d4f4076](https://github.com/aypro/streetmerchant/commit/d4f4076af84a960575dd9beb672e6ad5d63b2de2)), closes [#2867](https://github.com/aypro/streetmerchant/issues/2867)
+* add SCREENSHOT_DIR config option ([#2801](https://github.com/aypro/streetmerchant/issues/2801)) ([fe99aa4](https://github.com/aypro/streetmerchant/commit/fe99aa476ccfdb73b29c45beaaa972ac419a39b4))
+* **coolmod:** add linksBuilder and update selectors ([#2803](https://github.com/aypro/streetmerchant/issues/2803)) ([f297e1d](https://github.com/aypro/streetmerchant/commit/f297e1d7d3d03ab57e2e5c4dcf150f0d44ed750d))
+* **equippr:** add links builder ([#2795](https://github.com/aypro/streetmerchant/issues/2795)) ([e631d80](https://github.com/aypro/streetmerchant/commit/e631d805fcc07f057b6ad3204497446fd6377223))
+* **redis:** introduce pub/sub ([#2855](https://github.com/aypro/streetmerchant/issues/2855)) ([d6d8ef2](https://github.com/aypro/streetmerchant/commit/d6d8ef2171e1a2f52218c7ab84a463d916e27d25))
+* **store:** add 3050 in topachat and materiel ([#2945](https://github.com/aypro/streetmerchant/issues/2945)) ([fc0c3da](https://github.com/aypro/streetmerchant/commit/fc0c3da6fba105c521c102b1a071adefd364bc4c))
+* **store:** add Microsoft (CA) for Xbox X/S ([#2764](https://github.com/aypro/streetmerchant/issues/2764)) ([ca784c8](https://github.com/aypro/streetmerchant/commit/ca784c897845609afaa6c7efbc8024cb039229db))
+* **store:** add Microsoft for Xbox S/X ([#2738](https://github.com/aypro/streetmerchant/issues/2738)) ([d06d050](https://github.com/aypro/streetmerchant/commit/d06d050613cfc7e0710e14717dadbb6784552bef))
+* **web:** add select all/none for columns & black theme ([#2878](https://github.com/aypro/streetmerchant/issues/2878)) ([2ff7f58](https://github.com/aypro/streetmerchant/commit/2ff7f58691c9233dbfcd49eee6b3cafb800c8539))
+
+
+### Bug Fixes
+
+* amazon prices ([#2914](https://github.com/aypro/streetmerchant/issues/2914)) ([f7236b3](https://github.com/aypro/streetmerchant/commit/f7236b3eaa4a021ac1ba9a87067f4bfa543b17d6)), closes [#2926](https://github.com/aypro/streetmerchant/issues/2926)
+* **amazon-eu:** checking price selector ([#2856](https://github.com/aypro/streetmerchant/issues/2856)) ([19afe41](https://github.com/aypro/streetmerchant/commit/19afe4197245b867b59f87f830ac08529924e6ea))
+* **discord:** add Discord.ClientOptions ([#2714](https://github.com/aypro/streetmerchant/issues/2714)) ([3787c54](https://github.com/aypro/streetmerchant/commit/3787c543964489fe5893ca6e6f4ac17593f310d5))
+* partial url regexp ([#2382](https://github.com/aypro/streetmerchant/issues/2382)) ([61af2a4](https://github.com/aypro/streetmerchant/commit/61af2a4325733463c918396868d313b7632bb310))
+* **terraform:** update IAM configuration for ECS deployment ([#2675](https://github.com/aypro/streetmerchant/issues/2675)) ([9c346e7](https://github.com/aypro/streetmerchant/commit/9c346e70fac17854d347dfbdbc238bfb0056c6a8))
+* **xbox:** false positive ([#2726](https://github.com/aypro/streetmerchant/issues/2726)) ([e5e8481](https://github.com/aypro/streetmerchant/commit/e5e84814379c0d777188b6e321edbe0b780ab3fd))
+
 ## [3.6.0](https://www.github.com/aypro/streetmerchant/compare/v3.5.0...v3.6.0) (2021-08-09)
 
 
