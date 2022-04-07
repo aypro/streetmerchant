@@ -44,6 +44,7 @@ import {BestBuyCa} from './bestbuy-ca';
 import {Box} from './box';
 import {Bpctech} from './bpctech';
 import {BpmPower} from './bpmpower';
+import {Bookdepository} from './bookdepository';
 import {Brack} from './brack';
 import {BT} from './bt';
 import {CanadaComputers} from './canadacomputers';
@@ -220,6 +221,7 @@ export const storeList = new Map([
   [BestBuy.name, BestBuy],
   [BestBuyCa.name, BestBuyCa],
   [Box.name, Box],
+  [Bookdepository.name, Bookdepository],  
   [Bpctech.name, Bpctech],
   [BpmPower.name, BpmPower],
   [Brack.name, Brack],  

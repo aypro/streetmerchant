@@ -1,6 +1,8 @@
 import {Store} from './store';
 
 export const Digitec: Store = {
+	minPageSleep: 60000,
+	maxPageSleep: 300000,	
 	currency: 'CHF',
 	labels: {
 		inStock:	[
@@ -15,7 +17,19 @@ export const Digitec: Store = {
 		]
 	},
 	links: [
-		//3200g,3400g
+		{
+			brand: 'sony',
+			model: 'ps5 digital',
+			series: 'sonyps5de',
+      url: 'https://www.digitec.ch/en/s1/product/13329224'
+		},
+		{
+			brand: 'sony',
+			model: 'ps5 console',
+			series: 'sonyps5c',
+      url: 'https://www.digitec.ch/en/s1/product/12664145'
+    },	
+/*		
 		{
 			brand: 'amd',
 			model: '3200g',
@@ -28,7 +42,6 @@ export const Digitec: Store = {
 			series: 'ryzen3400g',
             url: 'https://www.digitec.ch/en/s1/product/11239818'
         }, 		
-		//3060
 		{
 			brand: 'asus',
 			model: 'dual',
@@ -101,8 +114,7 @@ export const Digitec: Store = {
 			series: '3060',
             url: 'https://www.digitec.ch/en/s1/product/14884788'
         },		
-		//3070
-/* 		{
+		{
 			brand: 'kfa2',
 			model: 'sg oc',
 			series: '3070',
@@ -276,35 +288,19 @@ export const Digitec: Store = {
 			series: '3070',
             url: 'https://www.digitec.ch/en/s1/product/14518026'
         }, 		
- */		//5900x
 		{
 			brand: 'amd',
 			model: '5900x',
 			series: 'ryzen5900',
 			url: 'https://www.digitec.ch/en/s1/product/13987917'
         }, 		
-		//5600x
 		{
 			brand: 'amd',
 			model: '5600x',
 			series: 'ryzen5600',
-            url: 'https://www.digitec.ch/en/s1/product/13987919'
-		}, 
-		//PS5
-		{
-			brand: 'sony',
-			model: 'ps5 digital',
-			series: 'sonyps5de',
-            url: 'https://www.digitec.ch/en/s1/product/13329224'
-		},
-		{
-			brand: 'sony',
-			model: 'ps5 console',
-			series: 'sonyps5c',
-            url: 'https://www.digitec.ch/en/s1/product/12664145'
-        },
-		//3080				         
-/* 		{
+      url: 'https://www.digitec.ch/en/s1/product/13987919'
+		}, 	         
+ 		{
 			brand: 'gigabyte',
 			model: 'eagle',
 			series: '3080',
@@ -460,7 +456,6 @@ export const Digitec: Store = {
 			series: '3080',
             url: 'https://www.digitec.ch/en/s1/product/15969325'
 		}, 		
- */		//3090
 		{
 			brand: 'asus',
 			model: 'tuf',
@@ -587,8 +582,7 @@ export const Digitec: Store = {
 			series: '3090',
             url: 'https://www.digitec.ch/en/s1/product/13752152'
 		}, 
-		//3060ti     
-/* 		{
+ 		{
 			brand: 'msi',
 			model: 'ventus 3x oc',
 			series: '3060ti',
@@ -672,7 +666,6 @@ export const Digitec: Store = {
 			series: '3060ti',
             url: 'https://www.digitec.ch/en/s1/product/14131769'
 		},
- */		//rx6700xt
 		{
 			brand: 'asus',
 			model: 'amd reference',
@@ -733,7 +726,6 @@ export const Digitec: Store = {
 			series: 'rx6700xt',
             url: 'https://www.digitec.ch/en/s1/product/15059558'
 		},			
-		//rx6800xt
 		{
 			brand: 'sapphire',
 			model: 'nitro+',
@@ -764,7 +756,6 @@ export const Digitec: Store = {
 			series: 'rx6800xt',
             url: 'https://www.digitec.ch/en/s1/product/14370346'
 		},
-		//rx6800		
 		{
 			brand: 'sapphire',
 			model: 'nitro+',
@@ -789,14 +780,12 @@ export const Digitec: Store = {
 			series: 'rx6800',
             url: 'https://www.digitec.ch/en/s1/product/14367226'
 		},
-		//rx6900xt
 		{
 			brand: 'asus',
 			model: 'gaming',
 			series: 'rx6900xt',
             url: 'https://www.digitec.ch/en/s1/product/14406423'
 		},	
-		//3080ti	
 		{
 			brand: 'evga',
 			model: 'ftw3 ultra',
@@ -868,7 +857,7 @@ export const Digitec: Store = {
 			model: 'tuf',
 			series: '3080ti',
             url: 'https://www.digitec.ch/en/s1/product/15950455'
-		},//3070ti	
+		},
 		{
 			brand: 'msi',
 			model: 'gaming x trio',
@@ -886,7 +875,7 @@ export const Digitec: Store = {
 			model: 'suprim x',
 			series: '3070ti',
             url: 'https://www.digitec.ch/en/s1/product/16006610'
-		},							
+		},	*/						
 	],
 	name: 'digitec'
 };
